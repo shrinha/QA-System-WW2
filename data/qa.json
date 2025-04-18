@@ -1,0 +1,1502 @@
+[
+    {
+      "context": "World War II or the Second World War (1 September 1939 – 2 September 1945) was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many nations mobilising all resources in pursuit of total war. Tanks and aircraft played major roles... resulting in 70 to 85 million deaths, more than half of which were civilians.",
+      "question": "What were the two main coalitions in World War II?",
+      "answer": "The Allies and the Axis powers."
+    },
+    {
+      "context": "World War II or the Second World War (1 September 1939 – 2 September 1945) was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many nations mobilising all resources in pursuit of total war. Tanks and aircraft played major roles... resulting in 70 to 85 million deaths, more than half of which were civilians.",
+      "question": "What was the estimated number of deaths caused by World War II?",
+      "answer": "Between 70 to 85 million people, over half of whom were civilians."
+    },
+    {
+      "context": "The causes of World War II included unresolved tensions in the aftermath of World War I and the rises of fascism in Europe and militarism in Japan... Key events preceding the war included Japan's invasion of Manchuria in 1931, the Spanish Civil War, the outbreak of the Second Sino-Japanese War in 1937, and Germany's annexations of Austria and the Sudetenland.",
+      "question": "What were the main causes of World War II?",
+      "answer": "Unresolved tensions after World War I, the rise of fascism in Europe, and militarism in Japan."
+    },
+    {
+      "context": "The causes of World War II included unresolved tensions in the aftermath of World War I and the rises of fascism in Europe and militarism in Japan... Key events preceding the war included Japan's invasion of Manchuria in 1931, the Spanish Civil War, the outbreak of the Second Sino-Japanese War in 1937, and Germany's annexations of Austria and the Sudetenland.",
+      "question": "What territorial actions did Germany take before World War II began?",
+      "answer": "Germany annexed Austria and the Sudetenland."
+    },
+    {
+      "context": "World War II is generally considered to have begun on 1 September 1939, when Nazi Germany, under Adolf Hitler, invaded Poland, after which the United Kingdom and France declared war on Germany. Poland was divided between Germany and the Soviet Union under the Molotov–Ribbentrop Pact.",
+      "question": "What event marked the start of World War II?",
+      "answer": "Germany's invasion of Poland on 1 September 1939."
+    },
+    {
+      "context": "World War II is generally considered to have begun on 1 September 1939, when Nazi Germany, under Adolf Hitler, invaded Poland, after which the United Kingdom and France declared war on Germany. Poland was divided between Germany and the Soviet Union under the Molotov–Ribbentrop Pact.",
+      "question": "What was the Molotov–Ribbentrop Pact?",
+      "answer": "A non-aggression pact between Germany and the Soviet Union that included the division of Poland."
+    },
+    {
+      "context": "In 1940, the Soviets annexed the Baltic states and parts of Finland and Romania... Through campaigns and treaties, Germany gained control of much of continental Europe and formed the Axis alliance with Italy, Japan, and other countries.",
+      "question": "What territories did the Soviet Union annex in 1940?",
+      "answer": "The Baltic states and parts of Finland and Romania."
+    },
+    {
+      "context": "In 1940, the Soviets annexed the Baltic states and parts of Finland and Romania... Through campaigns and treaties, Germany gained control of much of continental Europe and formed the Axis alliance with Italy, Japan, and other countries.",
+      "question": "Which countries were part of the Axis alliance?",
+      "answer": "Germany, Italy, Japan, and other allied nations."
+    },
+    {
+      "context": "In December 1941, Japan attacked American and British territories... including at Pearl Harbor in Hawaii... Japan's advances in the Pacific were halted in June 1942 at the Battle of Midway. In late 1942, Axis forces were defeated in North Africa and at Stalingrad.",
+      "question": "What event led the United States to enter World War II?",
+      "answer": "The Japanese attack on Pearl Harbor in December 1941."
+    },
+    {
+      "context": "In December 1941, Japan attacked American and British territories... including at Pearl Harbor in Hawaii... Japan's advances in the Pacific were halted in June 1942 at the Battle of Midway. In late 1942, Axis forces were defeated in North Africa and at Stalingrad.",
+      "question": "What battle marked a turning point against Japan in the Pacific?",
+      "answer": "The Battle of Midway."
+    },
+    {
+      "context": "In December 1941, Japan attacked American and British territories... including at Pearl Harbor in Hawaii... Japan's advances in the Pacific were halted in June 1942 at the Battle of Midway. In late 1942, Axis forces were defeated in North Africa and at Stalingrad.",
+      "question": "What were two major Axis defeats in 1942?",
+      "answer": "The Battle of Stalingrad and the North African campaign."
+    },
+    {
+      "context": "In 1944, the Western Allies invaded France at Normandy... and Germany's unconditional surrender on 8 May 1945. On 6 and 9 August, the U.S. dropped atomic bombs on Hiroshima and Nagasaki... Japan announced its unconditional surrender on 15 August.",
+      "question": "What was the significance of the Normandy invasion?",
+      "answer": "It marked the beginning of the Western Allies' liberation of German-occupied Europe."
+    },
+    {
+      "context": "In 1944, the Western Allies invaded France at Normandy... and Germany's unconditional surrender on 8 May 1945. On 6 and 9 August, the U.S. dropped atomic bombs on Hiroshima and Nagasaki... Japan announced its unconditional surrender on 15 August.",
+      "question": "When did Germany surrender in World War II?",
+      "answer": "On 8 May 1945."
+    },
+    {
+      "context": "In 1944, the Western Allies invaded France at Normandy... and Germany's unconditional surrender on 8 May 1945. On 6 and 9 August, the U.S. dropped atomic bombs on Hiroshima and Nagasaki... Japan announced its unconditional surrender on 15 August.",
+      "question": "Why did Japan surrender in August 1945?",
+      "answer": "Because of the atomic bombings, the Soviet invasion of Manchuria, and the threat of Allied invasion."
+    },
+    {
+      "context": "World War II transformed the political, economic, and social structures of the world... The United Nations was created... The Soviet Union and U.S. emerged as rival global superpowers... triggering the decolonisation of Africa and Asia.",
+      "question": "What organization was established to promote peace after World War II?",
+      "answer": "The United Nations."
+    },
+    {
+      "context": "World War II transformed the political, economic, and social structures of the world... The United Nations was created... The Soviet Union and U.S. emerged as rival global superpowers... triggering the decolonisation of Africa and Asia.",
+      "question": "Which two countries emerged as superpowers after the war?",
+      "answer": "The United States and the Soviet Union."
+    },
+    {
+      "context": "World War II transformed the political, economic, and social structures of the world... The United Nations was created... The Soviet Union and U.S. emerged as rival global superpowers... triggering the decolonisation of Africa and Asia.",
+      "question": "What global trend was triggered by Europe’s weakened influence post-WWII?",
+      "answer": "The decolonisation of Africa and Asia."
+    },
+        {
+          "context": "Aircraft were used for reconnaissance, as fighters, bombers, and ground-support, and each role developed considerably. Innovations included airlift and strategic bombing.",
+          "question": "What were the main roles of aircraft during World War II?",
+          "answer": "Aircraft were used for reconnaissance, as fighters, bombers, and ground-support, with each role developing considerably during the war."
+        },
+        {
+          "context": "Anti-aircraft weaponry also advanced, including defences such as radar and surface-to-air artillery, particularly the introduction of the proximity fuze.",
+          "question": "What were some advancements in anti-aircraft weaponry during World War II?",
+          "answer": "Advancements included the use of radar, surface-to-air artillery, and the introduction of the proximity fuze."
+        },
+        {
+          "context": "The use of the jet aircraft was pioneered and led to jets becoming standard in air forces worldwide.",
+          "question": "What impact did the development of jet aircraft have during and after World War II?",
+          "answer": "The development of jet aircraft during World War II led to jets becoming standard in air forces worldwide."
+        },
+        {
+          "context": "Aircraft carriers became the dominant capital ship in naval warfare, replacing battleships, with key battles like Taranto, Pearl Harbor, and the Coral Sea highlighting their importance.",
+          "question": "Why did aircraft carriers become more important than battleships during World War II?",
+          "answer": "Aircraft carriers became more important because they were crucial in naval battles and more economical than heavily armoured battleships."
+        },
+        {
+          "context": "Submarines played a key role, with Germany improving offensive capabilities through Type VII submarines and wolfpack tactics, while the British focused on anti-submarine weapons like sonar and homing torpedoes.",
+          "question": "How did Germany and Britain differ in their use and development of submarines during World War II?",
+          "answer": "Germany focused on improving offensive capabilities, while Britain concentrated on anti-submarine weapons and tactics."
+        },
+        {
+          "context": "Tank design advanced in speed, armour, and firepower. Germany’s blitzkrieg tactics emphasized mobility and combined arms, avoiding direct tank-versus-tank combat.",
+          "question": "What were some key features of German blitzkrieg tactics involving tanks?",
+          "answer": "Blitzkrieg emphasized mobility, combined arms, and avoiding direct tank-versus-tank combat."
+        },
+        {
+          "context": "Infantry remained the backbone of military forces, using portable machine guns like the MG 34, submachine guns, and late-war assault rifles.",
+          "question": "What weapons were commonly used by infantry during World War II?",
+          "answer": "Infantry commonly used portable machine guns like the MG 34, submachine guns, and assault rifles developed later in the war."
+        },
+        {
+          "context": "The German Enigma machine was used for encrypted communication. The Allies developed SIGINT and cryptanalysis methods like Ultra to decode messages.",
+          "question": "How did the Allies counter the German use of the Enigma machine?",
+          "answer": "The Allies used signals intelligence and cryptanalysis methods like Ultra to decode Enigma-encrypted messages."
+        },
+        {
+          "context": "Notable deception operations like Mincemeat and Bodyguard helped mislead Axis powers.",
+          "question": "What were Operation Mincemeat and Operation Bodyguard?",
+          "answer": "They were Allied deception operations aimed at misleading Axis powers about strategic military intentions."
+        },
+        {
+          "context": "The war spurred the development of the first programmable computers like Z3, Colossus, and ENIAC.",
+          "question": "What were some of the first programmable computers developed during World War II?",
+          "answer": "Z3, Colossus, and ENIAC were among the first programmable computers developed during World War II."
+        },
+        {
+          "context": "The Manhattan Project developed nuclear weapons. Other innovations included guided missiles, modern rockets, and artificial harbours.",
+          "question": "What were some major technological feats achieved during World War II?",
+          "answer": "Major feats included nuclear weapons (Manhattan Project), guided missiles, modern rockets, and artificial harbours."
+        },
+        {
+          "context": "Penicillin was first developed, mass-produced, and widely used during World War II.",
+          "question": "What was the significance of penicillin during World War II?",
+          "answer": "Penicillin was developed, mass-produced, and used extensively, marking a major advance in medical treatment."
+        }
+      ,
+
+      
+        {
+          "context": "World War I had radically altered the political European map with the defeat of the Central Powers—including Austria-Hungary, Germany, Bulgaria, and the Ottoman Empire—and the 1917 Bolshevik seizure of power in Russia.",
+          "question": "Which countries were part of the Central Powers defeated in World War I?",
+          "answer": "Austria-Hungary, Germany, Bulgaria, and the Ottoman Empire."
+        },
+        {
+          "context": "The 1917 Bolshevik seizure of power in Russia led to the founding of the Soviet Union.",
+          "question": "What was the outcome of the 1917 Bolshevik seizure of power in Russia?",
+          "answer": "It led to the founding of the Soviet Union."
+        },
+        {
+          "context": "Victorious Allies of World War I, such as France, Belgium, Italy, Romania, and Greece, gained territory, and new nation-states were created from the Austro-Hungarian, Ottoman, and Russian Empires.",
+          "question": "Which countries gained territory after World War I?",
+          "answer": "France, Belgium, Italy, Romania, and Greece."
+        },
+        {
+          "context": "The League of Nations was established in 1920 by the Paris Peace Conference to prevent future world wars.",
+          "question": "Why was the League of Nations established?",
+          "answer": "To prevent future world wars by promoting collective security and peaceful dispute resolution."
+        },
+        {
+          "context": "The League of Nations aimed to prevent armed conflict through collective security, disarmament, and peaceful negotiation and arbitration.",
+          "question": "What were the primary goals of the League of Nations?",
+          "answer": "Preventing armed conflict, disarmament, and peaceful negotiation and arbitration."
+        },
+        {
+          "context": "Despite pacifist sentiment after World War I, irredentist and revanchist nationalism emerged in several European countries.",
+          "question": "What political sentiments emerged in Europe after World War I despite pacifism?",
+          "answer": "Irredentist and revanchist nationalism."
+        },
+        {
+          "context": "Germany experienced strong revanchist sentiment due to the Treaty of Versailles, which imposed territorial, colonial, and financial losses.",
+          "question": "Why did Germany experience revanchist sentiment after World War I?",
+          "answer": "Because the Treaty of Versailles imposed heavy territorial, colonial, and financial losses on Germany."
+        },
+        {
+          "context": "The Treaty of Versailles caused Germany to lose around 13% of its territory, all overseas possessions, and imposed reparations and military limitations.",
+          "question": "What were the major impacts of the Treaty of Versailles on Germany?",
+          "answer": "Germany lost about 13% of its territory, all its overseas colonies, had to pay reparations, and faced military limitations."
+        },
+
+        
+            {
+              "context": "The Allies established occupation administrations in Austria and Germany, both initially divided between western and eastern zones controlled by the Western Allies and the Soviet Union.",
+              "question": "How were Austria and Germany governed immediately after World War II?",
+              "answer": "They were occupied by the Allies and divided into western and eastern zones controlled by the Western Allies and the Soviet Union."
+            },
+            {
+              "context": "Germany’s occupation zones ended in 1949, forming West Germany and East Germany.",
+              "question": "When did Germany's occupation zones officially end and what was the outcome?",
+              "answer": "In 1949, the zones ended and led to the formation of West Germany and East Germany."
+            },
+            {
+              "context": "A denazification program in Germany led to the prosecution of Nazi war criminals in the Nuremberg trials.",
+              "question": "What was the purpose of the denazification program in Germany?",
+              "answer": "To prosecute Nazi war criminals and remove ex-Nazis from power."
+            },
+            {
+              "context": "Germany lost a quarter of its 1937 territory, with areas like Silesia, Neumark, and Pomerania going to Poland.",
+              "question": "What territories did Germany lose after World War II?",
+              "answer": "Silesia, Neumark, most of Pomerania, and parts of East Prussia."
+            },
+            {
+              "context": "By the 1950s, one-fifth of West Germans were refugees from the east.",
+              "question": "What proportion of West Germans were refugees from the east by the 1950s?",
+              "answer": "One-fifth."
+            },
+            {
+              "context": "The United Nations was formed in 1945 and adopted the Universal Declaration of Human Rights in 1948.",
+              "question": "When was the United Nations formed and what important document did it adopt?",
+              "answer": "It was formed in 1945 and adopted the Universal Declaration of Human Rights in 1948."
+            },
+            {
+              "context": "France, China, the UK, the Soviet Union, and the US became permanent members of the UN Security Council.",
+              "question": "Which countries became permanent members of the UN Security Council?",
+              "answer": "France, China, the United Kingdom, the Soviet Union, and the United States."
+            },
+            {
+              "context": "Most Eastern European countries became Soviet satellite states.",
+              "question": "What happened to most Eastern European countries after World War II?",
+              "answer": "They became Soviet satellite states with Communist regimes."
+            },
+            {
+              "context": "The Cold War involved political tensions, an arms race, and proxy wars between NATO and the Warsaw Pact.",
+              "question": "What characterized the Cold War?",
+              "answer": "Political tensions, an arms race, and proxy wars between NATO and the Warsaw Pact."
+            },
+            {
+              "context": "Korea was divided along the 38th parallel into Soviet and American zones, leading to the Korean War.",
+              "question": "Why did the Korean War occur?",
+              "answer": "Because Korea was divided into North and South, each claiming to be the legitimate government."
+            },
+            {
+              "context": "Communist forces won the Chinese Civil War and established the People's Republic of China.",
+              "question": "Who won the Chinese Civil War and what was established?",
+              "answer": "The Communist forces won and established the People's Republic of China."
+            },
+            {
+              "context": "The Arab–Israeli conflict escalated following the Arab rejection of the UN Partition Plan and the creation of Israel.",
+              "question": "What triggered the escalation of the Arab–Israeli conflict after WWII?",
+              "answer": "The Arab rejection of the UN Partition Plan for Palestine and the creation of Israel."
+            },
+            {
+              "context": "Decolonisation followed WWII as European powers could not maintain their empires.",
+              "question": "Why did decolonisation occur after World War II?",
+              "answer": "Because European powers lost prestige and resources and could not maintain their empires."
+            },
+            {
+              "context": "The United States emerged as the richest country post-WWII and led the world economy.",
+              "question": "Which country became the world’s economic leader after World War II?",
+              "answer": "The United States."
+            },
+            {
+              "context": "The Bretton Woods Conference created the IMF and IBRD (later part of the World Bank Group).",
+              "question": "What institutions were created at the Bretton Woods Conference?",
+              "answer": "The International Monetary Fund (IMF) and the International Bank for Reconstruction and Development (IBRD)."
+            },
+            {
+              "context": "The Marshall Plan helped Western European recovery and led to the German economic miracle.",
+              "question": "What impact did the Marshall Plan have on post-war Europe?",
+              "answer": "It helped Western European recovery and contributed to the German economic miracle."
+            },
+            {
+              "context": "The Soviet Union recovered rapidly by seizing German industrial plants and reparations.",
+              "question": "How did the Soviet Union recover economically after the war?",
+              "answer": "By seizing German industrial plants and exacting war reparations from satellite states."
+            },
+            {
+              "context": "Japan recovered much later, while China returned to pre-war industrial levels by 1952.",
+              "question": "How did post-war recovery differ between Japan and China?",
+              "answer": "China returned to pre-war industrial levels by 1952, while Japan recovered much later."
+            }
+          ,
+          {
+            "context": "On 6 June 1944 (D-Day), the Western Allies invaded northern France, leading to the defeat of German Army units in France.",
+            "question": "What was the significance of D-Day on 6 June 1944?",
+            "answer": "It marked the start of the Allied invasion of northern France and led to the defeat of German forces there."
+          },
+          {
+            "context": "Paris was liberated on 25 August by the local resistance and the Free French Forces, both led by General Charles de Gaulle.",
+            "question": "Who liberated Paris and when?",
+            "answer": "Paris was liberated on 25 August 1944 by the local resistance and Free French Forces under Charles de Gaulle."
+          },
+          {
+            "context": "The Western Allies failed to cross the Ruhr river after an unsuccessful airborne operation in the Netherlands.",
+            "question": "What halted the Western Allies’ advance into northern Germany?",
+            "answer": "A failed airborne operation in the Netherlands and inability to cross the Ruhr river."
+          },
+          {
+            "context": "On 22 June, the Soviets launched Operation Bagration in Belarus, destroying the German Army Group Centre.",
+            "question": "What was Operation Bagration and what did it achieve?",
+            "answer": "It was a Soviet offensive in Belarus that destroyed the German Army Group Centre."
+          },
+          {
+            "context": "The Soviet Red Army passively watched as the Germans crushed the Warsaw Uprising.",
+            "question": "What was the Soviet response to the Warsaw Uprising?",
+            "answer": "They remained on the other side of the Vistula River and did not intervene."
+          },
+          {
+            "context": "The Soviet offensive in eastern Romania led to the destruction of German forces and a coup that brought Romania and Bulgaria to the Allied side.",
+            "question": "How did Romania and Bulgaria switch sides in the war?",
+            "answer": "A Soviet offensive triggered coups that aligned both countries with the Allies."
+          },
+          {
+            "context": "The Red Army and Yugoslav Partisans liberated Belgrade on 20 October 1944.",
+            "question": "Who liberated Belgrade and when?",
+            "answer": "The Soviet Red Army and Yugoslav Partisans liberated Belgrade on 20 October 1944."
+          },
+          {
+            "context": "The Soviets launched a massive assault against German-occupied Hungary that lasted until the fall of Budapest in February 1945.",
+            "question": "What major Eastern European city fell to the Soviets in February 1945?",
+            "answer": "Budapest, the capital of Hungary."
+          },
+          {
+            "context": "Finland resisted the Soviet offensive in the Karelian Isthmus, leading to an armistice with mild conditions.",
+            "question": "How did Finland avoid Soviet occupation?",
+            "answer": "By strongly resisting the Soviet offensive, leading to an armistice with mild terms."
+          },
+          {
+            "context": "Commonwealth forces repelled Japanese sieges in Assam and pushed them back to the Chindwin River.",
+            "question": "What was the result of Japanese sieges in Assam?",
+            "answer": "The Commonwealth forces repelled them and pushed the Japanese back to the Chindwin River."
+          },
+          {
+            "context": "In September 1944, Chinese forces captured Mount Song and reopened the Burma Road.",
+            "question": "What was the strategic outcome of China capturing Mount Song?",
+            "answer": "It allowed the reopening of the Burma Road for Allied supply routes."
+          },
+          {
+            "context": "The Japanese captured Changsha and Hengyang, and linked their forces in China and Indochina by mid-December.",
+            "question": "What advances did the Japanese make in China in late 1944?",
+            "answer": "They captured Changsha and Hengyang, and linked forces across China and Indochina."
+          },
+          {
+            "context": "In June 1944, U.S. forces launched offensives in the Mariana and Palau islands, winning the Battle of the Philippine Sea.",
+            "question": "What was the outcome of the U.S. offensives in the Mariana and Palau islands?",
+            "answer": "They decisively defeated the Japanese in the Battle of the Philippine Sea."
+          },
+          {
+            "context": "The defeat in the Battle of the Philippine Sea led to the resignation of Japanese Prime Minister Hideki Tojo.",
+            "question": "What political change occurred in Japan after the Battle of the Philippine Sea?",
+            "answer": "Prime Minister Hideki Tojo resigned."
+          },
+          {
+            "context": "In late October 1944, U.S. forces invaded Leyte and won a major naval victory at the Battle of Leyte Gulf.",
+            "question": "What major battle followed the U.S. invasion of Leyte?",
+            "answer": "The Battle of Leyte Gulf, one of the largest naval battles in history."
+          },
+          {
+            "context": "In May 1943, Canadian and U.S. forces eliminated Japanese forces from the Aleutian Islands.",
+            "question": "What happened in the Aleutians in May 1943?",
+            "answer": "Canadian and U.S. forces removed Japanese forces from the Aleutians."
+          },
+          {
+            "context": "By March 1944, the Allies had isolated Rabaul and breached the Japanese Central Pacific perimeter.",
+            "question": "What two major objectives did the Allies achieve by March 1944 in the Pacific?",
+            "answer": "They isolated Rabaul and breached the Japanese Central Pacific perimeter."
+          },
+          {
+            "context": "In April 1944, the Allies launched an operation to retake Western New Guinea.",
+            "question": "What Pacific region did the Allies target in April 1944?",
+            "answer": "Western New Guinea."
+          },
+          {
+            "context": "On 5 July 1943, Germany launched an offensive on the Kursk Bulge but failed due to strong Soviet defenses.",
+            "question": "What happened at the Kursk Bulge in July 1943?",
+            "answer": "Germany launched an offensive but failed against Soviet defenses."
+          },
+          {
+            "context": "On 12 July 1943, the Soviets counterattacked at Kursk, marking the end of German superiority in the east.",
+            "question": "What did the Soviet counteroffensive at Kursk achieve?",
+            "answer": "It ended German military superiority and gave the Soviets the initiative."
+          },
+          {
+            "context": "The Soviets broke through the German Panther–Wotan line at Smolensk and the Lower Dnieper.",
+            "question": "Where did the Soviets break through after Kursk?",
+            "answer": "At Smolensk and the Lower Dnieper."
+          },
+          {
+            "context": "On 3 September 1943, the Western Allies invaded mainland Italy after Italy's armistice.",
+            "question": "When and why did the Western Allies invade mainland Italy?",
+            "answer": "They invaded on 3 September 1943 after Italy signed an armistice with the Allies."
+          },
+          {
+            "context": "Germany responded to Italy's armistice by occupying the country, disarming Italian forces, and rescuing Mussolini.",
+            "question": "How did Germany react to Italy’s armistice?",
+            "answer": "They occupied Italy, disarmed Italian forces, and rescued Mussolini."
+          },
+          {
+            "context": "Mussolini established the Italian Social Republic in German-occupied Italy, leading to civil war.",
+            "question": "What was the Italian Social Republic?",
+            "answer": "A German-backed state established by Mussolini in northern Italy during the civil war."
+          },
+          {
+            "context": "By mid-November 1943, the Western Allies reached the main German defensive line in Italy.",
+            "question": "How far had the Allies advanced in Italy by November 1943?",
+            "answer": "They had reached the main German defensive line."
+          },
+          {
+            "context": "By May 1943, Germany temporarily halted its Atlantic submarine campaign due to heavy losses.",
+            "question": "Why did Germany halt its Atlantic submarine campaign in 1943?",
+            "answer": "Due to heavy losses caused by effective Allied countermeasures."
+          },
+          {
+            "context": "In November 1943, Allied leaders met in Cairo and Tehran to plan future operations and post-war arrangements.",
+            "question": "What was the purpose of the Cairo and Tehran Conferences?",
+            "answer": "To plan military operations and post-war arrangements, including the invasion of Europe and Soviet action against Japan."
+          },
+          {
+            "context": "During the Battle of Changde, Chinese forces forced Japan into a war of attrition while waiting for Allied relief.",
+            "question": "What happened during the Battle of Changde?",
+            "answer": "Chinese forces fought a war of attrition against Japan and waited for Allied relief."
+          },
+          {
+            "context": "On 27 January 1944, Soviet forces ended the siege of Leningrad by expelling German troops.",
+            "question": "What happened in Leningrad on 27 January 1944?",
+            "answer": "The Soviets expelled German troops and ended the siege."
+          },
+          {
+            "context": "Soviet advances into the Baltic were delayed by resistance on the Estonian border.",
+            "question": "What slowed Soviet operations in the Baltic region?",
+            "answer": "German and Estonian resistance on the pre-war Estonian border."
+          },
+          {
+            "context": "By late May 1944, the Soviets liberated Crimea, expelled Axis forces from Ukraine, and advanced into Romania.",
+            "question": "What progress did the Soviets make by May 1944?",
+            "answer": "They liberated Crimea, expelled Axis forces from Ukraine, and entered Romania."
+          },
+          {
+            "context": "Rome was captured by the Allies on 4 June 1944 after successful offensives in Italy.",
+            "question": "When did Rome fall to the Allies?",
+            "answer": "On 4 June 1944."
+          },
+          {
+            "context": "In March 1944, Japan launched an invasion of Assam, besieging Imphal and Kohima.",
+            "question": "What was Japan’s strategy in Assam in 1944?",
+            "answer": "To invade and besiege Imphal and Kohima."
+          },
+          {
+            "context": "In May 1944, British and Indian forces counterattacked and drove Japanese forces back into Burma by July.",
+            "question": "What was the outcome of the Allied counteroffensive in Assam?",
+            "answer": "They drove Japanese forces back into Burma by July 1944."
+          },
+          {
+            "context": "Chinese forces besieged Japanese troops in Myitkyina after invading northern Burma in late 1943.",
+            "question": "What was the result of China’s northern Burma campaign?",
+            "answer": "They besieged Japanese troops in Myitkyina."
+          },
+          {
+            "context": "By June 1944, Japan conquered Henan and launched another offensive against Changsha.",
+            "question": "What were Japan’s actions in China by mid-1944?",
+            "answer": "They conquered Henan and began a new attack on Changsha."
+          },
+          {
+            "context": "In the mid-1920s, the Kuomintang launched a unification campaign in China but soon became embroiled in a civil war.",
+            "question": "What internal conflict did the Kuomintang face in the 1920s?",
+            "answer": "They fought a civil war against their former allies, the Chinese Communist Party, and regional warlords."
+          },
+          {
+            "context": "In 1931, Japan staged the Mukden Incident as a pretext to invade Manchuria and create the puppet state of Manchukuo.",
+            "question": "What was the Mukden Incident, and what did it lead to?",
+            "answer": "It was staged by Japan as a pretext to invade Manchuria and establish the puppet state of Manchukuo."
+          },
+          {
+            "context": "China appealed to the League of Nations to stop the Japanese invasion of Manchuria, but Japan withdrew from the League after being condemned.",
+            "question": "What was China’s response to Japan’s invasion of Manchuria?",
+            "answer": "China appealed to the League of Nations, but Japan withdrew after being condemned."
+          },
+          {
+            "context": "Following the Mukden Incident, China and Japan fought battles in Shanghai, Rehe, and Hebei until the Tanggu Truce in 1933.",
+            "question": "Where did China and Japan fight battles after the Mukden Incident?",
+            "answer": "They fought in Shanghai, Rehe, and Hebei until the Tanggu Truce in 1933."
+          },
+          {
+            "context": "After the Tanggu Truce, Chinese volunteer forces continued resisting Japanese aggression in Manchuria, Chahar, and Suiyuan.",
+            "question": "Where did Chinese volunteer forces continue to resist Japanese aggression after the Tanggu Truce?",
+            "answer": "They resisted in Manchuria, Chahar, and Suiyuan."
+          },
+          {
+            "context": "After the 1936 Xi'an Incident, the Kuomintang and CCP forces agreed on a ceasefire to present a united front against Japan.",
+            "question": "What happened after the 1936 Xi'an Incident between the Kuomintang and CCP?",
+            "answer": "They agreed on a ceasefire to present a united front against Japan."
+          },
+          {
+            "context": "In 1931, Japan staged the Mukden Incident as a pretext to invade Manchuria.",
+            "question": "When did Japan stage the Mukden Incident?",
+            "answer": "In 1931."
+          },
+          {
+            "context": "The Tanggu Truce was signed in 1933, following several battles between China and Japan.",
+            "question": "When was the Tanggu Truce signed?",
+            "answer": "In 1933."
+          },
+          {
+            "context": "The Xi'an Incident occurred in 1936, leading to a ceasefire between the Kuomintang and CCP.",
+            "question": "When did the Xi'an Incident take place?",
+            "answer": "In 1936."
+          },
+          {
+            "context": "Following World War I, the victorious Allied Powers met to decide Germany’s future. Germany was forced to sign the Treaty of Versailles.",
+            "question": "What were the main consequences for Germany after signing the Treaty of Versailles?",
+            "answer": "Germany had to accept guilt for the war, pay reparations, lose territory, and was prohibited from having a large military."
+          },
+          {
+            "context": "The humiliation faced by Germany under this treaty paved the way for the spread of Ultra-Nationalism in Germany.",
+            "question": "What did the Treaty of Versailles lead to in Germany?",
+            "answer": "It led to the spread of Ultra-Nationalism in Germany."
+          },
+          {
+            "context": "The League of Nations was set up in 1919 to keep world peace but was ultimately a failure.",
+            "question": "When was the League of Nations established?",
+            "answer": "In 1919."
+          },
+          {
+            "context": "The League of Nations was intended to prevent military aggression but failed due to the absence of an army and the lack of all countries joining.",
+            "question": "Why did the League of Nations fail?",
+            "answer": "It failed because not all countries joined, and it had no army to prevent military aggression."
+          },
+          {
+            "context": "The worldwide economic depression of the 1930s caused political power shifts to totalitarian and imperialist governments in Europe and Japan.",
+            "question": "How did the Great Depression of 1929 impact political systems in Europe and Asia?",
+            "answer": "In Europe, it shifted power to totalitarian and imperialist governments, and in Asia, Japan expanded aggressively."
+          },
+          {
+            "context": "In the 1920s, fascism rose as a nationalistic, militaristic totalitarian ideology, with Benito Mussolini establishing the first Fascist dictatorship in Italy in 1922.",
+            "question": "When did Benito Mussolini establish the first Fascist dictatorship in Europe?",
+            "answer": "In 1922."
+          },
+          {
+            "context": "Adolf Hitler, leader of the Nazi party, preached a racist form of fascism and promised to overturn the Versailles Treaty and restore German power.",
+            "question": "What was Adolf Hitler’s main goal as the leader of the Nazi Party?",
+            "answer": "To overturn the Versailles Treaty, restore German wealth and glory, and secure more living space for Germans."
+          },
+          {
+            "context": "In 1933, Hitler became Chancellor of Germany and soon established himself as a dictator.",
+            "question": "When did Adolf Hitler become Chancellor of Germany?",
+            "answer": "In 1933."
+          },
+          {
+            "context": "Hitler’s Nazi regime unleashed a war of extermination against Slavs, Jews, and others deemed inferior by his ideology.",
+            "question": "What groups were targeted by Hitler’s war of extermination?",
+            "answer": "Slavs, Jews, and other groups deemed inferior by Hitler's ideology."
+          },
+          {
+            "context": "Britain and France allowed Germany to annex parts of Czechoslovakia in the Munich Agreement of 1938 as part of a policy of appeasement.",
+            "question": "What was the Munich Agreement of 1938?",
+            "answer": "It allowed Germany to annex areas in Czechoslovakia with German speakers in exchange for a promise not to invade the rest of the country."
+          },
+          {
+            "context": "In March 1939, Germany broke its promise from the Munich Agreement and invaded the rest of Czechoslovakia.",
+            "question": "When did Germany break its promise and invade the rest of Czechoslovakia?",
+            "answer": "In March 1939."
+          },
+          {
+            "context": "Britain and France did not take military action when Germany invaded the rest of Czechoslovakia in 1939.",
+            "question": "What was Britain and France’s response when Germany invaded the rest of Czechoslovakia in 1939?",
+            "answer": "They were not prepared to take military action."
+          },
+          {
+            "context": "Germany invaded Poland after staging false flag border incidents. The first German attack of the war occurred at Westerplatte. The United Kingdom responded with an ultimatum, and after its rejection, Britain and France declared war on Germany.",
+            "question": "What event led to the United Kingdom and France declaring war on Germany?",
+            "answer": "The United Kingdom and France declared war on Germany after the German invasion of Poland, which followed false flag border incidents."
+          },
+          {
+            "context": "During the Phoney War period, the Allies provided no direct military support to Poland, but began a naval blockade of Germany, which escalated into the Battle of the Atlantic.",
+            "question": "How did the Allies respond to Germany's invasion of Poland during the Phoney War?",
+            "answer": "The Allies initiated a naval blockade of Germany during the Phoney War, although they did not provide direct military support to Poland."
+          },
+          {
+            "context": "On 17 September 1939, two days after a cease-fire with Japan, the Soviet Union invaded Poland, claiming that the Polish state had ceased to exist.",
+            "question": "When did the Soviet Union invade Poland, and what was their justification?",
+            "answer": "The Soviet Union invaded Poland on 17 September 1939, claiming that the Polish state had ceased to exist."
+          },
+          {
+            "context": "Despite its military defeat, Poland formed a government-in-exile, and many Polish military personnel evacuated to Romania and Latvia, later fighting against the Axis.",
+            "question": "What did Poland do after its military defeat in 1939?",
+            "answer": "Poland formed a government-in-exile and many military personnel evacuated to Romania and Latvia to continue fighting against the Axis."
+          },
+          {
+            "context": "On 6 October 1939, Hitler made a peace offer to the United Kingdom and France, but it was rejected, and Germany ordered an offensive against France.",
+            "question": "What happened after Hitler made a peace offer to the United Kingdom and France?",
+            "answer": "The peace offer was rejected, and Hitler ordered an immediate offensive against France."
+          },
+          {
+            "context": "In 1940, Finland rejected Soviet demands and was invaded by the Soviet Union in November, leading to the Winter War, which ended in March 1940 with some Finnish territorial concessions.",
+            "question": "What happened after Finland rejected Soviet demands in 1940?",
+            "answer": "Finland was invaded by the Soviet Union, leading to the Winter War, which ended in March 1940 with Finland conceding some territory."
+          },
+          {
+            "context": "After Germany's invasion of France, the Allies launched an unsuccessful attempt to prevent Germany from seizing the French fleet, leading to the British attack on the fleet on 3 July 1940.",
+            "question": "Why did the United Kingdom attack the French fleet in July 1940?",
+            "answer": "The United Kingdom attacked the French fleet on 3 July 1940 to prevent Germany from seizing it after the German invasion of France."
+          },
+          {
+            "context": "In 1940, Germany invaded Denmark and Norway to secure iron ore shipments from Sweden, leading to a quick Danish surrender and a prolonged Norwegian occupation.",
+            "question": "What was the purpose of Germany's 1940 invasion of Denmark and Norway?",
+            "answer": "Germany invaded Denmark and Norway to secure iron ore shipments from Sweden and to prevent Allied interference."
+          },
+          {
+            "context": "In 1940, Germany's Blitzkrieg tactics allowed them to quickly bypass the Maginot Line and advance into Belgium, leading to the encirclement of Allied forces in the Franco-Belgian border.",
+            "question": "How did Germany manage to bypass the Maginot Line during the 1940 invasion of France?",
+            "answer": "Germany used Blitzkrieg tactics to bypass the Maginot Line, advancing through Belgium and trapping Allied forces at the Franco-Belgian border."
+          },
+          {
+            "context": "Following the fall of France, Germany and Italy attacked Greece and Yugoslavia in April 1941, leading to their occupation by Axis forces.",
+            "question": "What happened after the fall of France in 1940?",
+            "answer": "Germany and Italy attacked Greece and Yugoslavia in April 1941, leading to their occupation by Axis forces."
+          },
+          {
+            "context": "The Soviet Union invaded Finland in November 1939, but despite their overwhelming superiority, Soviet success was limited, and Finland ceded some territory by March 1940.",
+            "question": "What was the outcome of the Soviet invasion of Finland in 1939?",
+            "answer": "Despite their numerical superiority, the Soviet Union's success was limited, and Finland ceded some territory after the Winter War in March 1940."
+          },
+          {
+            "context": "The United States, though still neutral in 1940, increased its military support to the Allies, including a trade of American destroyers for British bases and support to China.",
+            "question": "How did the United States assist the Allies before officially entering World War II?",
+            "answer": "The United States increased military support by trading American destroyers for British bases and providing assistance to China."
+          },
+          {
+            "context": "In December 1940, President Roosevelt called for the United States to become an 'arsenal of democracy' and promoted Lend-Lease programs to support Allied war efforts.",
+            "question": "What was Roosevelt's stance in December 1940 regarding the United States' involvement in World War II?",
+            "answer": "Roosevelt called for the United States to become an 'arsenal of democracy' and promoted Lend-Lease programs to support Allied war efforts."
+          },
+          {
+            "context": "The Axis powers formalized their alliance with the signing of the Tripartite Pact in September 1940, bringing Japan, Italy, and Germany together as the Axis powers.",
+            "question": "What was the Tripartite Pact, and when was it signed?",
+            "answer": "The Tripartite Pact, signed in September 1940, formalized the alliance between Japan, Italy, and Germany, making them the Axis powers."
+          },
+          {
+            "context": "In 1940, Italy attacked Greece, but the campaign was repulsed. Germany then intervened and quickly conquered Greece and Yugoslavia in April 1941.",
+            "question": "What happened after Italy's failed invasion of Greece in 1940?",
+            "answer": "Germany intervened in April 1941 and quickly conquered Greece and Yugoslavia after Italy's failed invasion of Greece."
+          },
+          {
+            "context": "After the Battle of Guadalcanal, the Allies began a series of operations to push back Japanese forces in the Pacific. By May 1943, they secured the Aleutian Islands and captured key islands around the Japanese stronghold of Rabaul.",
+            "question": "What were the key successes of the Allies in the Pacific in 1943?",
+            "answer": "The Allies secured the Aleutian Islands, captured islands around Rabaul, and breached Japan's Central Pacific perimeter by taking the Gilbert and Marshall Islands."
+          },
+          {
+            "context": "In the Eastern Front, after the failure of Germany's summer offensive at Kursk in July 1943, the Soviets gained the initiative and began pushing German forces back with multiple offensives.",
+            "question": "How did the Battle of Kursk affect the Eastern Front of World War II?",
+            "answer": "The Soviet victory at Kursk in July 1943 marked the end of German superiority on the Eastern Front. The Soviets gained the initiative, pushing German forces back with successful offensives such as the Lower Dnieper Offensive and advances towards Smolensk."
+          },
+          {
+            "context": "In September 1943, Italy signed an armistice with the Allies, leading to the German occupation of the country and the creation of the Italian Social Republic, a puppet state led by Mussolini.",
+            "question": "What was the outcome of Italy’s armistice with the Allies in 1943?",
+            "answer": "Italy's armistice with the Allies led to the German occupation of the country and the establishment of the Italian Social Republic under Mussolini, creating a civil war between Axis-loyalist forces and those supporting the Allies."
+          },
+          {
+            "context": "The Allies initiated a strategic bombing campaign against Germany in 1943, targeting industrial centers like Hamburg to disrupt the German war economy.",
+            "question": "What was the purpose of the Allied strategic bombing campaign in 1943?",
+            "answer": "The purpose of the Allied strategic bombing campaign was to weaken Germany's war economy, destroy industrial centers, and reduce civilian morale, with notable attacks such as the bombing of Hamburg."
+          },
+          {
+            "context": "Following the success at Guadalcanal, the Allies continued their offensive in the Pacific, eventually launching an operation to retake Western New Guinea in April 1944.",
+            "question": "What was one of the key operations launched by the Allies in the Pacific after Guadalcanal?",
+            "answer": "After Guadalcanal, the Allies launched an operation to retake Western New Guinea in April 1944 as part of their broader efforts to isolate Japanese forces and neutralize their bases in the Pacific."
+          },
+          {
+            "context": "In early 1943, the Allies debated the best strategy for defeating the Axis powers. The Soviet Union demanded a second front, while the Americans favored a direct attack on Germany through France.",
+            "question": "What were the main differences in Allied strategy in 1943 regarding the defeat of Germany?",
+            "answer": "The Soviet Union demanded a second front to relieve pressure on their forces, while the Americans favored a direct attack on Germany through France, though the British persuaded the Americans to first focus on the Mediterranean and North Africa."
+          },
+          {
+            "context": "After the defeat of German forces at Kursk in 1943, the Soviet Union began to push forward, gaining significant territory in Eastern Europe.",
+            "question": "What was the significance of the Soviet victory at Kursk in 1943?",
+            "answer": "The Soviet victory at Kursk in 1943 was significant because it marked the end of German territorial gains and initiated a series of successful Soviet offensives that pushed German forces back on the Eastern Front."
+          },
+          {
+            "context": "The Western Allies fought through several lines until reaching the main German defensive line in mid-November. Red Army troops in a counter-offensive on German positions at the Battle of Kursk, July 1943. German operations in the Atlantic also suffered. By May 1943, as Allied counter-measures became increasingly effective, the resulting sizeable German submarine losses forced a temporary halt of the German Atlantic naval campaign.",
+            "question": "What was the outcome of the German naval campaign in the Atlantic in 1943?",
+            "answer": "By May 1943, Allied counter-measures had become increasingly effective, resulting in sizeable German submarine losses and forcing a temporary halt of the German Atlantic naval campaign."
+          },
+          {
+            "context": "In November 1943, Franklin D. Roosevelt and Winston Churchill met with Chiang Kai-shek in Cairo and then with Joseph Stalin in Tehran. The former conference determined the post-war return of Japanese territory and military planning for the Burma campaign, while the latter included agreement that the Western Allies would invade Europe in 1944 and that the Soviet Union would declare war on Japan within three months of Germany's defeat.",
+            "question": "What were the key decisions made during the November 1943 conferences in Cairo and Tehran?",
+            "answer": "The Cairo conference determined the post-war return of Japanese territory and military planning for the Burma campaign, while the Tehran conference agreed that the Western Allies would invade Europe in 1944 and the Soviet Union would declare war on Japan within three months of Germany's defeat."
+          },
+          {
+            "context": "In January 1944, the Allies launched a series of attacks in Italy against the line at Monte Cassino and tried to outflank it with landings at Anzio. On 27 January 1944, Soviet troops launched a major offensive that expelled German forces from the Leningrad region, ending the most lethal siege in history.",
+            "question": "What were the significant military actions in Italy and the Soviet Union in January 1944?",
+            "answer": "In January 1944, the Allies attacked the German defensive line at Monte Cassino and attempted to outflank it with landings at Anzio. Soviet troops launched an offensive that expelled German forces from the Leningrad region, ending the siege."
+          },
+          {
+            "context": "By late May 1944, the Soviets had liberated Crimea, expelled Axis forces from Ukraine, and made incursions into Romania, which were repulsed by the Axis troops. The Allied offensives in Italy had succeeded, and Rome was captured on 4 June.",
+            "question": "What were the key successes of the Soviets and the Allies in May and June 1944?",
+            "answer": "By late May 1944, the Soviets had liberated Crimea and expelled Axis forces from Ukraine. The Allies succeeded in their offensives in Italy, capturing Rome on 4 June."
+          },
+          {
+            "context": "On 6 June 1944 (commonly known as D-Day), after three years of Soviet pressure, the Western Allies invaded northern France. These landings were successful and led to the defeat of the German Army units in France. Paris was liberated on 25 August by the local resistance assisted by the Free French Forces.",
+            "question": "What was the significance of the D-Day invasion on 6 June 1944?",
+            "answer": "The D-Day invasion on 6 June 1944 marked the Western Allies' successful invasion of northern France, leading to the defeat of the German Army units in France and the liberation of Paris on 25 August."
+          },
+          {
+            "context": "In Italy, the Allied advance slowed due to the last major German defensive line. On 22 June, the Soviets launched a strategic offensive in Belarus (Operation Bagration) that nearly destroyed the German Army Group Centre.",
+            "question": "What was the impact of the Soviet offensive in Belarus in June 1944?",
+            "answer": "The Soviet offensive in Belarus, known as Operation Bagration, nearly destroyed the German Army Group Centre and significantly weakened German forces in the region."
+          },
+          {
+            "context": "In September 1944, Soviet troops advanced into Yugoslavia and forced the rapid withdrawal of German Army Groups E and F in Greece, Albania, and Yugoslavia. By this point, the communist-led Partisans under Marshal Josip Broz Tito controlled much of Yugoslavia.",
+            "question": "How did the Soviet advance in 1944 affect German forces in Yugoslavia?",
+            "answer": "In September 1944, Soviet troops forced the rapid withdrawal of German Army Groups E and F from Greece, Albania, and Yugoslavia, while the communist-led Partisans under Tito controlled much of Yugoslavia."
+          },
+          {
+            "context": "In early 1945, American and Soviet forces met at the Elbe river on 25 April, leaving unoccupied pockets in southern Germany and around Berlin. Soviet troops stormed and captured Berlin in late April.",
+            "question": "What was the significance of the meeting at the Elbe river in April 1945?",
+            "answer": "The meeting of American and Soviet forces at the Elbe river on 25 April 1945 marked the convergence of Allied forces in Germany, with Soviet troops capturing Berlin shortly thereafter."
+          },
+          {
+            "context": "On 7 and 8 May 1945, total and unconditional surrender in Europe was signed. The German Army Group Centre resisted in Prague until 11 May. All remaining members of the German government were arrested by the Allied Forces in Flensburg on 23 May.",
+            "question": "When did Germany officially surrender in Europe?",
+            "answer": "Germany officially surrendered in Europe on 7 and 8 May 1945, with the German Army Group Centre resisting until 11 May. Remaining members of the German government were arrested by the Allies in Flensburg on 23 May."
+          },
+          {
+            "context": "In the Pacific theatre, American forces advanced in the Philippines, clearing Leyte by the end of April 1945. They landed on Luzon in January 1945 and recaptured Manila in March. The U.S. Army Air Forces launched a massive firebombing campaign on Japan, including a devastating bombing raid on Tokyo in March.",
+            "question": "What were the key American operations in the Pacific in 1945?",
+            "answer": "In 1945, American forces advanced in the Philippines, landing on Luzon and recapturing Manila. The U.S. Army Air Forces conducted a massive firebombing campaign on Japan, including the deadly raid on Tokyo in March."
+          },
+          {
+            "context": "In early August 1945, the United States dropped atomic bombs on Hiroshima and Nagasaki. These bombings, along with the Soviet declaration of war on Japan, led Japan to accept surrender terms. The Japanese Emperor announced his decision on 15 August 1945, and Japan formally surrendered on 2 September 1945.",
+            "question": "What events led to Japan’s surrender in August 1945?",
+            "answer": "Japan's surrender was prompted by the atomic bombings of Hiroshima and Nagasaki in early August 1945, along with the Soviet declaration of war on Japan. The Emperor announced the decision to surrender on 15 August, and Japan formally surrendered on 2 September."
+          },
+          {
+            "context": "By November 1941, Commonwealth forces had launched a counter-offensive in North Africa, Operation Crusader, and reclaimed all the gains the Germans and Italians had made. The Germans launched a North African offensive in January, pushing the British back to positions at the Gazala line by early February, followed by a temporary lull in combat which Germany used to prepare for their upcoming offensives.",
+            "question": "What was Operation Crusader and when did it take place?",
+            "answer": "Operation Crusader was a counter-offensive launched by Commonwealth forces in North Africa in November 1941, which successfully reclaimed all the gains made by the Germans and Italians."
+          },
+          {
+            "context": "Concerns that the Japanese might use bases in Vichy-held Madagascar caused the British to invade the island in early May 1942. An Axis offensive in Libya forced an Allied retreat deep inside Egypt until Axis forces were stopped at El Alamein.",
+            "question": "Why did the British invade Madagascar in May 1942?",
+            "answer": "The British invaded Madagascar in May 1942 to prevent the Japanese from using bases in the Vichy-held island."
+          },
+          {
+            "context": "On the Continent, raids of Allied commandos on strategic targets, culminating in the failed Dieppe Raid, demonstrated the Western Allies' inability to launch an invasion of continental Europe without much better preparation, equipment, and operational security.",
+            "question": "What was the result of the Dieppe Raid?",
+            "answer": "The Dieppe Raid was a failed operation that demonstrated the Western Allies' inability to launch a successful invasion of continental Europe without better preparation, equipment, and operational security."
+          },
+          {
+            "context": "In August 1942, the Allies succeeded in repelling a second attack against El Alamein and, at a high cost, managed to deliver desperately needed supplies to the besieged Malta. A few months later, the Allies commenced an attack of their own in Egypt, dislodging the Axis forces and beginning a drive west across Libya.",
+            "question": "What was the significance of the Battle of El Alamein in 1942?",
+            "answer": "The Battle of El Alamein in 1942 was significant because the Allies successfully repelled a second Axis attack, delivered supplies to besieged Malta, and began a drive west across Libya."
+          },
+          {
+            "context": "This attack was followed up shortly after by Anglo-American landings in French North Africa, which resulted in the region joining the Allies. Hitler responded to the French colony's defection by ordering the occupation of Vichy France; although Vichy forces did not resist this violation of the armistice, they managed to scuttle their fleet to prevent its capture by German forces.",
+            "question": "What was the response of Vichy France when the Allies landed in French North Africa?",
+            "answer": "Vichy France responded to the Allied landings in French North Africa by not resisting the occupation and scuttling their fleet to prevent its capture by German forces."
+          },
+          {
+            "context": "Axis forces in Africa withdrew into Tunisia, which was conquered by the Allies in May 1943. In June 1943, the British and Americans began a strategic bombing campaign against Germany with a goal to disrupt the war economy, reduce morale, and 'de-house' the civilian population. The firebombing of Hamburg was among the first attacks in this campaign, inflicting significant casualties and considerable losses on infrastructure of this important industrial centre.",
+            "question": "What was the goal of the strategic bombing campaign that began in June 1943?",
+            "answer": "The goal of the strategic bombing campaign that began in June 1943 was to disrupt Germany's war economy, reduce morale, and 'de-house' the civilian population."
+          },
+          {
+            "context": "In April 1940, Germany invaded Denmark and Norway to protect shipments of iron ore from Sweden, which the Allies were attempting to cut off. Denmark capitulated after six hours, and despite Allied support, Norway was conquered within two months. British discontent over the Norwegian campaign led to the resignation of Prime Minister Neville Chamberlain, who was replaced by Winston Churchill on 10 May 1940.",
+            "question": "Why did Germany invade Denmark and Norway in April 1940?",
+            "answer": "Germany invaded Denmark and Norway to protect shipments of iron ore from Sweden, which the Allies were attempting to cut off."
+          },
+          {
+            "context": "On 10 May 1940, Germany launched an offensive against France. To circumvent the strong Maginot Line fortifications on the Franco-German border, Germany directed its attack at the neutral nations of Belgium, the Netherlands, and Luxembourg. The Germans carried out a flanking manoeuvre through the Ardennes region, which was mistakenly perceived by the Allies as an impenetrable natural barrier against armoured vehicles.",
+            "question": "How did Germany bypass the Maginot Line during its offensive against France in May 1940?",
+            "answer": "Germany bypassed the Maginot Line by attacking through the neutral nations of Belgium, the Netherlands, and Luxembourg, using a flanking manoeuvre through the Ardennes region."
+          },
+          {
+            "context": "By successfully implementing new Blitzkrieg tactics, the Wehrmacht rapidly advanced to the Channel and cut off the Allied forces in Belgium, trapping the bulk of the Allied armies in a cauldron on the Franco-Belgian border near Lille. The United Kingdom was able to evacuate a significant number of Allied troops from the continent by early June, although they had to abandon almost all their equipment.",
+            "question": "What was the result of the German Blitzkrieg tactics in France?",
+            "answer": "The German Blitzkrieg tactics rapidly advanced to the Channel, cutting off and trapping the bulk of the Allied armies in Belgium near Lille, forcing the United Kingdom to evacuate many troops, though they had to abandon almost all their equipment."
+          },
+          {
+            "context": "On 10 June, Italy invaded France, declaring war on both France and the United Kingdom. The Germans turned south against the weakened French army, and Paris fell to them on 14 June. Eight days later France signed an armistice with Germany; it was divided into German and Italian occupation zones, and an unoccupied rump state under the Vichy Regime.",
+            "question": "What happened to France after Italy invaded on 10 June 1940?",
+            "answer": "After Italy invaded on 10 June 1940, Germany turned south against the weakened French army, and Paris fell on 14 June. France signed an armistice with Germany, dividing the country into occupation zones and leaving an unoccupied rump state under the Vichy Regime."
+          },
+          {
+            "context": "The air Battle of Britain began in early July with Luftwaffe attacks on shipping and harbours. The German campaign for air superiority started in August but its failure to defeat RAF Fighter Command forced the indefinite postponement of the proposed German invasion of Britain. The German strategic bombing offensive intensified with night attacks on London and other cities in the Blitz, but largely ended in May 1941 after failing to significantly disrupt the British war effort.",
+            "question": "What was the outcome of the Battle of Britain?",
+            "answer": "The Battle of Britain resulted in the failure of the German Luftwaffe to achieve air superiority over Britain, leading to the postponement of a German invasion and the eventual end of the Blitz bombing campaign in May 1941."
+          },
+          {
+            "context": "Using newly captured French ports, the German Navy enjoyed success against an over-extended Royal Navy, using U-boats against British shipping in the Atlantic. The British Home Fleet scored a significant victory on 27 May 1941 by sinking the German battleship Bismarck.",
+            "question": "What was the significance of the sinking of the Bismarck on 27 May 1941?",
+            "answer": "The sinking of the Bismarck by the British Home Fleet on 27 May 1941 was a significant victory, as it eliminated a major threat to British shipping in the Atlantic."
+          },
+          {
+            "context": "In November 1939, the United States was assisting China and the Western Allies, and had amended the Neutrality Act to allow 'cash and carry' purchases by the Allies. In 1940, following the German capture of Paris, the size of the United States Navy was significantly increased.",
+            "question": "What was the 'cash and carry' amendment to the Neutrality Act?",
+            "answer": "'Cash and carry' was an amendment to the Neutrality Act that allowed the Allies to purchase military supplies from the United States as long as they paid in cash and transported the goods themselves."
+          },
+          {
+            "context": "In December 1940, Roosevelt accused Hitler of planning world conquest and ruled out any negotiations as useless, calling for the United States to become an 'arsenal of democracy' and promoting Lend-Lease programmes of military and humanitarian aid to support the British war effort; Lend-Lease was later extended to the other Allies, including the Soviet Union after it was invaded by Germany.",
+            "question": "What was Roosevelt's stance on negotiations with Hitler in December 1940?",
+            "answer": "In December 1940, Roosevelt ruled out any negotiations with Hitler, accusing him of planning world conquest, and called for the United States to become an 'arsenal of democracy' through the Lend-Lease programme."
+          },
+          {
+            "context": "At the end of September 1940, the Tripartite Pact formally united Japan, Italy, and Germany as the Axis powers. The Tripartite Pact stipulated that any country—with the exception of the Soviet Union—that attacked any Axis Power would be forced to go to war against all three. The Axis expanded in November 1940 when Hungary, Slovakia, and Romania joined.",
+            "question": "What was the Tripartite Pact and which countries joined the Axis powers in 1940?",
+            "answer": "The Tripartite Pact was an agreement that formally united Japan, Italy, and Germany as the Axis powers, stipulating that any country attacking one of them would go to war against all three. Hungary, Slovakia, and Romania joined the Axis in November 1940."
+          },
+          {
+            "context": "Following the Japanese false flag Mukden incident in 1931, the Japanese shelling of the American gunboat USS Panay in 1937, and the 1937–1938 Nanjing Massacre, Japanese-American relations deteriorated. In 1939, the United States notified Japan that it would not be extending its trade treaty and American public opinion opposing Japanese expansionism led to a series of economic sanctions—the Export Control Acts—which banned U.S. exports of chemicals, minerals and military parts to Japan, and increased economic pressure on the Japanese regime.",
+            "question": "How did Japanese-American relations deteriorate prior to 1941?",
+            "answer": "Japanese-American relations deteriorated due to incidents like the Mukden incident in 1931, the shelling of USS Panay in 1937, and the Nanjing Massacre. Economic sanctions, including the Export Control Acts, further escalated tensions."
+          },
+          {
+            "context": "During 1939 Japan launched its first attack against Changsha, but was repulsed by late September. Despite several offensives by both sides, by 1940 the war between China and Japan was at a stalemate. To increase pressure on China by blocking supply routes, and to better position Japanese forces in the event of a war with the Western powers, Japan invaded and occupied northern Indochina in September 1940.",
+            "question": "What was Japan's military strategy in China by 1940?",
+            "answer": "By 1940, Japan's strategy in China had reached a stalemate, and they invaded northern Indochina to increase pressure on China by blocking supply routes and positioning forces for potential conflict with Western powers."
+          },
+          {
+            "context": "In March, the Japanese 11th army attacked the headquarters of the Chinese 19th army but was repulsed during Battle of Shanggao. In September, Japan attempted to take the city of Changsha again and clashed with Chinese nationalist forces. German successes in Europe prompted Japan to increase pressure on European governments in Southeast Asia.",
+            "question": "What led Japan to increase pressure on European governments in Southeast Asia?",
+            "answer": "German successes in Europe prompted Japan to increase pressure on European governments in Southeast Asia, aiming to expand its influence and access to resources."
+          },
+          {
+            "context": "The Dutch government agreed to provide Japan with oil supplies from the Dutch East Indies, but negotiations for additional access to their resources ended in failure in June 1941. In July 1941 Japan sent troops to southern Indochina, thus threatening British and Dutch possessions in the Far East. The United States, the United Kingdom, and other Western governments reacted to this move with a freeze on Japanese assets and a total oil embargo.",
+            "question": "How did Japan's actions in 1941 lead to increased tensions with the United States?",
+            "answer": "Japan's deployment of troops to southern Indochina in July 1941, threatening British and Dutch territories, led to a freeze on Japanese assets and a total oil embargo imposed by the United States and other Western governments."
+          },
+          {
+            "context": "Since early 1941, the United States and Japan had been engaged in negotiations in an attempt to improve their strained relations and end the war in China. During these negotiations, Japan advanced a number of proposals which were dismissed by the Americans as inadequate. At the same time the United States, the United Kingdom, and the Netherlands engaged in secret discussions for the joint defence of their territories, in the event of a Japanese attack against any of them.",
+            "question": "What were the United States' negotiations with Japan like in early 1941?",
+            "answer": "In early 1941, the United States and Japan were engaged in negotiations to improve relations, but Japan's proposals were dismissed by the Americans. Meanwhile, the United States, the UK, and the Netherlands prepared for joint defense against a potential Japanese attack."
+          },
+          {
+            "context": "Frustrated at the lack of progress and feeling the pinch of the American–British–Dutch sanctions, Japan prepared for war. Emperor Hirohito, after initial hesitation about Japan's chances of victory, began to favour Japan's entry into the war. As a result, Prime Minister Fumimaro Konoe resigned. Hirohito refused the recommendation to appoint Prince Naruhiko Higashikuni in his place, choosing War Minister Hideki Tojo instead.",
+            "question": "How did Japan's leadership respond to the mounting tensions in 1941?",
+            "answer": "Frustrated by the lack of progress in negotiations and the impact of sanctions, Emperor Hirohito began to favour Japan's entry into the war. He replaced Prime Minister Fumimaro Konoe with War Minister Hideki Tojo."
+          },
+          {
+            "context": "On 3 November, Nagano explained in detail the plan of the attack on Pearl Harbor to the Emperor. On 5 November, Hirohito approved in imperial conference the operations plan for the war. On 20 November, the new government presented an interim proposal as its final offer. It called for the end of American aid to China and for lifting the embargo on the supply of oil and other resources to Japan.",
+            "question": "What did Japan propose in their final offer to the United States in November 1941?",
+            "answer": "Japan's final offer in November 1941 called for the end of American aid to China and the lifting of the embargo on oil and other resources in exchange for a promise not to launch attacks in Southeast Asia."
+          },
+          {
+            "context": "The American counter-proposal of 26 November required that Japan evacuate all of China without conditions and conclude non-aggression pacts with all Pacific powers. That meant Japan was essentially forced to choose between abandoning its ambitions in China, or seizing the natural resources it needed in the Dutch East Indies by force; the Japanese military did not consider the former an option, and many officers considered the oil embargo an unspoken declaration of war.",
+            "question": "What was the American counter-proposal to Japan in November 1941?",
+            "answer": "The American counter-proposal required Japan to evacuate all of China and conclude non-aggression pacts with all Pacific powers, essentially forcing Japan to choose between abandoning its ambitions in China or seizing resources in the Dutch East Indies."
+          },
+          {
+            "context": "Japan planned to seize European colonies in Asia to create a large defensive perimeter stretching into the Central Pacific. The Japanese would then be free to exploit the resources of Southeast Asia while exhausting the over-stretched Allies by fighting a defensive war. To prevent American intervention while securing the perimeter, it was further planned to neutralise the United States Pacific Fleet and the American military presence in the Philippines from the outset.",
+            "question": "What was Japan's strategic plan for the Pacific region?",
+            "answer": "Japan planned to seize European colonies in Asia to create a defensive perimeter, allowing them to exploit Southeast Asia's resources and exhaust the Allies while neutralizing the United States Pacific Fleet and American military presence in the Philippines."
+          },
+          {
+            "context": "On 7 December 1941 (8 December in Asian time zones), Japan attacked British and American holdings with near-simultaneous offensives against Southeast Asia and the Central Pacific. These included an attack on the American fleets at Pearl Harbor and the Philippines, as well as invasions of Guam, Wake Island, Malaya, Thailand, and Hong Kong.",
+            "question": "What were the major attacks carried out by Japan on 7 December 1941?",
+            "answer": "On 7 December 1941, Japan launched simultaneous attacks on the American fleets at Pearl Harbor and the Philippines, as well as invasions of Guam, Wake Island, Malaya, Thailand, and Hong Kong."
+          },
+          {
+            "context": "These attacks led the United States, United Kingdom, China, Australia, and several other states to formally declare war on Japan, whereas the Soviet Union, being heavily involved in large-scale hostilities with European Axis countries, maintained its neutrality agreement with Japan. Germany, followed by the other Axis states, declared war on the United States in solidarity with Japan, citing as justification the American attacks on German war vessels that had been ordered by Roosevelt.",
+            "question": "What was the international reaction to Japan's attacks on 7 December 1941?",
+            "answer": "The attacks on 7 December 1941 led to the United States, United Kingdom, China, Australia, and others declaring war on Japan. Germany and the Axis powers declared war on the United States in solidarity with Japan."
+          },
+          {
+            "context": "On 1 September 1939, Germany invaded Poland after having staged several false flag border incidents as a pretext to initiate the invasion. The first German attack of the war came against the Polish defences at Westerplatte. The United Kingdom responded with an ultimatum for Germany to cease military operations, and on 3 September, after the ultimatum was ignored, Britain and France declared war on Germany.",
+            "question": "What event triggered the United Kingdom and France's declaration of war on Germany in 1939?",
+            "answer": "Germany's invasion of Poland on 1 September 1939 triggered the United Kingdom and France's declaration of war after the ultimatum to cease military operations was ignored."
+          },
+          {
+            "context": "During the Phoney War period, the alliance provided no direct military support to Poland, outside of a cautious French probe into the Saarland. The Western Allies also began a naval blockade of Germany, which aimed to damage the country's economy and war effort. Germany responded by ordering U-boat warfare against Allied merchant and warships, which would later escalate into the Battle of the Atlantic.",
+            "question": "How did the Western Allies respond to Germany's invasion of Poland during the Phoney War?",
+            "answer": "During the Phoney War, the Western Allies imposed a naval blockade on Germany and provided limited military support, such as a cautious French probe into the Saarland. Germany countered with U-boat warfare against Allied ships."
+          },
+          {
+            "context": "On 8 September, German troops reached the suburbs of Warsaw. The Polish counter-offensive to the west halted the German advance for several days, but it was outflanked and encircled by the Wehrmacht. Remnants of the Polish army broke through to besieged Warsaw. On 17 September 1939, two days after signing a cease-fire with Japan, the Soviet Union invaded Poland under the supposed pretext that the Polish state had ceased to exist.",
+            "question": "What was the Soviet Union's involvement in Poland after Germany's invasion?",
+            "answer": "On 17 September 1939, the Soviet Union invaded Poland under the pretext that the Polish state had ceased to exist, following Germany's invasion of the country."
+          },
+          {
+            "context": "On 27 September, the Warsaw garrison surrendered to the Germans, and the last large operational unit of the Polish Army surrendered on 6 October. Despite the military defeat, Poland never surrendered; instead, it formed the Polish government-in-exile and a clandestine state apparatus remained in occupied Poland.",
+            "question": "How did Poland respond after its military defeat in 1939?",
+            "answer": "Despite military defeat, Poland formed a government-in-exile and maintained a clandestine state apparatus within occupied Poland."
+          },
+          {
+            "context": "Germany annexed western Poland and occupied central Poland; the Soviet Union annexed eastern Poland; small shares of Polish territory were transferred to Lithuania and Slovakia. On 6 October, Hitler made a public peace overture to the United Kingdom and France but said that the future of Poland was to be determined exclusively by Germany and the Soviet Union. The proposal was rejected and Hitler ordered an immediate offensive against France, which was postponed until the spring of 1940 due to bad weather.",
+            "question": "What happened to Poland after the German invasion in 1939?",
+            "answer": "After the invasion, Germany annexed western Poland, the Soviet Union annexed eastern Poland, and smaller portions of Polish territory were transferred to Lithuania and Slovakia. Hitler's peace proposal to the UK and France was rejected."
+          },
+          {
+            "context": "After the outbreak of war in Poland, Stalin threatened Estonia, Latvia, and Lithuania with military invasion, forcing the three Baltic countries to sign pacts allowing the creation of Soviet military bases in these countries; in October 1939, significant Soviet military contingents were moved there.",
+            "question": "What actions did Stalin take in response to the outbreak of war in Poland?",
+            "answer": "Stalin threatened Estonia, Latvia, and Lithuania with military invasion, forcing them to sign pacts allowing Soviet military bases in their countries."
+          },
+          {
+            "context": "Finland refused to sign a similar pact and rejected ceding part of its territory to the Soviet Union. The Soviet Union invaded Finland in November 1939, and was subsequently expelled from the League of Nations for this crime of aggression. Despite overwhelming numerical superiority, Soviet military success during the Winter War was modest, and the Finno-Soviet war ended in March 1940 with some Finnish concessions of territory.",
+            "question": "What was the outcome of the Winter War between Finland and the Soviet Union?",
+            "answer": "Despite Soviet numerical superiority, the Winter War ended in March 1940 with modest Soviet successes and some Finnish territorial concessions."
+          },
+          {
+            "context": "In June 1940, the Soviet Union occupied the entire territories of Estonia, Latvia and Lithuania, as well as the Romanian regions of Bessarabia, Northern Bukovina, and the Hertsa region. In August 1940, Hitler imposed the Second Vienna Award on Romania which led to the transfer of Northern Transylvania to Hungary.",
+            "question": "What were the Soviet Union's actions in 1940 with regard to Eastern Europe?",
+            "answer": "In June 1940, the Soviet Union occupied Estonia, Latvia, Lithuania, and parts of Romania, including Bessarabia, Northern Bukovina, and the Hertsa region."
+          },
+          {
+            "context": "In September 1940, Bulgaria demanded Southern Dobruja from Romania with German and Italian support, leading to the Treaty of Craiova. The loss of one-third of Romania's 1939 territory caused a coup against King Carol II, turning Romania into a fascist dictatorship under Marshal Ion Antonescu, with a course set towards the Axis in the hopes of a German guarantee.",
+            "question": "How did the loss of Romanian territory in 1940 affect its political situation?",
+            "answer": "The loss of territory in 1940 led to a coup against King Carol II, resulting in Romania becoming a fascist dictatorship under Marshal Ion Antonescu and aligning with the Axis powers."
+          },
+          {
+            "context": "Meanwhile, German-Soviet political relations and economic co-operation gradually stalled, and both states began preparations for war.",
+            "question": "What was the status of relations between Germany and the Soviet Union in 1940?",
+            "answer": "By 1940, German-Soviet political and economic relations began to stall, and both states started preparing for war."
+          },
+          {
+            "context": "World War II began after three years of mounting international tension, including the Spanish Civil War, Germany’s union with Austria, Hitler’s occupation of the Sudetenland, and the invasion of Czechoslovakia, which led to strained relations between the Axis and Allied powers. The German invasion of Poland on 1 September 1939 prompted Britain and France to declare war two days later, marking the official start of the war.",
+            "question": "What event marked the official start of World War II?",
+            "answer": "The German invasion of Poland on 1 September 1939 marked the official start of World War II, prompting Britain and France to declare war two days later."
+          },
+          {
+            "context": "In the early months, western Europe remained quiet in what became known as the 'Phoney War', though preparations continued and civilians evacuated. In August 1939, Hitler, determined to invade Poland, signed the German-Soviet Nonaggression Pact to avoid Soviet resistance. Following this, both Germany and the Soviet Union invaded Poland and divided the country.",
+            "question": "What was the 'Phoney War'?",
+            "answer": "The 'Phoney War' was a period of apparent quiet in western Europe during the early months of World War II, with no direct military action, although preparations continued and civilians evacuated."
+          },
+          {
+            "context": "In 1940, the 'Winter War' between Russia and Finland ended in March, and in April, Germany invaded Denmark and Norway, with Denmark surrendering immediately and Norway falling by June. Germany then turned westward, invading France, Belgium, and Holland using a new tactic called Blitzkrieg, a fast and coordinated assault combining land and air power.",
+            "question": "What was the 'Blitzkrieg' tactic?",
+            "answer": "The 'Blitzkrieg' tactic was a fast and coordinated assault combining land and air power, used by Germany during its invasion of France, Belgium, and Holland in 1940."
+          },
+          {
+            "context": "Despite larger Allied forces, Germany’s strategy proved devastating, leading to France’s surrender and the formation of the Vichy government. Hitler then targeted Britain in the Battle of Britain (July–September 1940), the first all-air conflict. Although heavily bombarded, the Royal Air Force managed to repel the German assault, delaying invasion plans indefinitely.",
+            "question": "What was the outcome of the Battle of Britain?",
+            "answer": "Despite heavy bombardment, the Royal Air Force managed to repel the German assault during the Battle of Britain, delaying German invasion plans indefinitely."
+          },
+          {
+            "context": "As Nazi control spread over Europe, the war expanded globally in 1941. After Mussolini’s defeats in Greece and Tobruk, German troops moved into North Africa and invaded Greece and Yugoslavia. In June, Hitler violated the Ribbentrop Pact by launching Operation Barbarossa against the Soviet Union. Initially successful, the invasion was stalled by the harsh winter and Soviet counterattacks.",
+            "question": "What was the significance of Operation Barbarossa?",
+            "answer": "Operation Barbarossa was the German invasion of the Soviet Union in June 1941, which initially succeeded but was later stalled by the harsh winter and Soviet counterattacks."
+          },
+          {
+            "context": "Meanwhile, on 7 December 1941, Japan, frustrated by U.S. trade embargoes, attacked Pearl Harbor, leading the U.S. to enter the war. Germany soon declared war on the U.S., and Japan launched simultaneous invasions of the Philippines, Burma, and Hong Kong.",
+            "question": "What event led the U.S. to enter World War II?",
+            "answer": "Japan's attack on Pearl Harbor on 7 December 1941 led the U.S. to enter World War II."
+          },
+          {
+            "context": "At the Battle of Midway in 1942, U.S. forces destroyed four Japanese carriers, turning the tide in the Pacific. The same year, the Allies learned of the mass murder of Jews by the Nazis, and the U.S. vowed justice. In the latter half of 1942, British forces took the initiative in North Africa, while the Soviets pushed back at Stalingrad.",
+            "question": "What was the significance of the Battle of Midway?",
+            "answer": "The Battle of Midway in 1942 was significant because U.S. forces destroyed four Japanese carriers, turning the tide in the Pacific in favor of the Allies."
+          },
+          {
+            "context": "In February 1943, Germany suffered its first major defeat, surrendering at Stalingrad. Axis forces in North Africa also surrendered, and Soviet advances continued, recapturing Kharkiv and Kiev. Allied bombing raids intensified, targeting German cities.",
+            "question": "What was the significance of the Battle of Stalingrad?",
+            "answer": "The Battle of Stalingrad was significant as it marked Germany's first major defeat, leading to the surrender of Axis forces in North Africa and the start of Soviet advances."
+          },
+          {
+            "context": "Soviet forces reached Berlin on 21 April 1945. Hitler committed suicide on 30 April, shortly after Mussolini was executed. Germany surrendered on 7 May, and the following day was celebrated as VE Day.",
+            "question": "When did Germany surrender in World War II?",
+            "answer": "Germany surrendered on 7 May 1945, which was celebrated as VE Day on the following day."
+          },
+          {
+            "context": "With Germany defeated, plans for invading Japan were underway. However, to avoid heavy casualties, U.S. President Harry Truman approved the use of atomic bombs, developed since 1942. On 6 August 1945, Hiroshima was bombed, followed by Nagasaki on 9 August. Unable to withstand the devastation, Japan surrendered on 14 August.",
+            "question": "How did the U.S. end the war in the Pacific?",
+            "answer": "The U.S. ended the war in the Pacific by dropping atomic bombs on Hiroshima on 6 August 1945 and Nagasaki on 9 August 1945, leading to Japan's surrender on 14 August."
+          },
+          {
+            "context": "With this, World War II came to an end.",
+            "question": "When did World War II officially end?",
+            "answer": "World War II officially ended on 14 August 1945, following Japan's surrender."
+          },
+          {
+            "context": "Estimates for the total number of casualties in World War II vary, but most suggest around 60 million people died, including about 20 million military personnel and 40 million civilians. The Soviet Union lost around 27 million people, including 8.7 million military and 19 million civilian deaths. Nazi Germany also sustained 5.3 million military losses. An estimated 11 to 17 million civilians died as a direct or indirect result of Hitler's racist policies, including the mass killing of about 6 million Jews, along with Roma, homosexuals, and other ethnic groups.",
+            "question": "How many people died in World War II and what were the major contributing factors?",
+            "answer": "World War II caused around 60 million deaths, with 20 million military personnel and 40 million civilians. The Soviet Union lost 27 million, Nazi Germany lost 5.3 million military personnel, and millions of civilians died as a result of racist policies, including the mass murder of 6 million Jews."
+          },
+          {
+            "context": "In Asia and the Pacific, the number of people killed by Japanese troops is contested, but estimates range from 3 million to more than 10 million. One of the most infamous atrocities was the Nanjing Massacre, in which 50,000 to 300,000 Chinese civilians were murdered by Japanese troops.",
+            "question": "What was the scale of Japanese war crimes in Asia during World War II?",
+            "answer": "Japanese war crimes in Asia led to the deaths of between 3 million and 10 million people, including the Nanjing Massacre, where 50,000 to 300,000 Chinese civilians were killed."
+          },
+          {
+            "context": "The Soviet Union was responsible for the Katyn massacre, where 22,000 Polish officers were executed, and other mass deportations of civilians to Siberia. Soviet soldiers also committed mass rapes in occupied territories, especially in Germany, with estimates ranging up to two million victims.",
+            "question": "What atrocities did the Soviet Union commit during World War II?",
+            "answer": "The Soviet Union committed atrocities including the Katyn massacre, where 22,000 Polish officers were executed, and mass rapes by Soviet soldiers, with up to two million German women and girls estimated to be victims."
+          },
+          {
+            "context": "The Holocaust, orchestrated by Nazi Germany, led to the systematic murder of approximately 6 million Jews, and another 4 million people, including Roma, the disabled, and prisoners of war. Additionally, Nazi Germany used about 12 million forced laborers from occupied countries.",
+            "question": "What was the Holocaust and how did Nazi Germany exploit forced labor?",
+            "answer": "The Holocaust resulted in the mass murder of 6 million Jews and 4 million others. Nazi Germany also used about 12 million people as forced laborers from occupied countries to support the war economy."
+          },
+          {
+            "context": "The United States, with its industrial capacity, produced two-thirds of all munitions used by the Allies during World War II. The U.S. and Soviet Union's ability to out-produce the Axis powers became a decisive factor after 1942.",
+            "question": "How did industrial production influence the outcome of World War II?",
+            "answer": "The United States produced two-thirds of all munitions used by the Allies, and the combined industrial output of the U.S. and Soviet Union became a decisive factor in defeating the Axis powers after 1942."
+          },
+          {
+            "context": "During World War II, both Germany and Japan used millions of enslaved people for labor. Germany enslaved about 12 million people, primarily from Eastern Europe, while Japan used over 18 million people in Far East Asia for forced labor.",
+            "question": "How did Germany and Japan use forced labor during World War II?",
+            "answer": "Germany enslaved about 12 million people, mostly from Eastern Europe, while Japan used over 18 million people in Far East Asia for forced labor during the war."
+          },
+          {
+            "context": "Technological advancements during World War II included the development of nuclear weapons under the Manhattan Project, the use of jet aircraft, and the introduction of more advanced tanks and submarines. Additionally, significant progress was made in cryptography, including the decryption of the German Enigma machine.",
+            "question": "What technological advancements were made during World War II?",
+            "answer": "World War II saw advancements like the development of nuclear weapons, jet aircraft, improved tanks and submarines, and significant progress in cryptography, including the decryption of the German Enigma machine."
+          },
+          {
+            "context": "The Holocaust was the state-sponsored genocide carried out by Nazi Germany, leading to the murder of six million Jews and millions of others, including Roma, disabled individuals, and prisoners of war. The Nazis also used about 12 million forced laborers from occupied territories, exploiting them for work in war industries.",
+            "question": "What was the Holocaust and how did it affect various groups?",
+            "answer": "The Holocaust resulted in the murder of six million Jews and millions of others, including Roma, disabled individuals, and prisoners of war. Additionally, Nazi Germany exploited about 12 million people as forced laborers in war industries."
+          },
+          {
+            "context": "Auschwitz was the largest concentration and extermination camp during the Holocaust, where around 1.1 million people, mostly Jews, were murdered. It became a symbol of the atrocities committed during the Holocaust.",
+            "question": "What role did Auschwitz play in the Holocaust?",
+            "answer": "Auschwitz was the largest concentration and extermination camp, where 1.1 million people, mostly Jews, were murdered, becoming a symbol of the Holocaust's atrocities."
+          },
+          {
+            "context": "Extermination camps, such as Treblinka, Sobibor, and Auschwitz-Birkenau, were designed by Nazi Germany for the mass killing of Jews, Roma, and other groups considered undesirable. The Nazis used gas chambers and mass shootings to murder millions.",
+            "question": "What were Nazi extermination camps and how did they operate?",
+            "answer": "Nazi extermination camps like Treblinka, Sobibor, and Auschwitz-Birkenau were designed for mass killings, primarily through gas chambers and mass shootings, murdering millions of Jews, Roma, and others deemed undesirable."
+          },
+          {
+            "context": "Nazi Germany, under Adolf Hitler's dictatorship, was responsible for the systematic murder of approximately 6 million Jews during the Holocaust. Additionally, 4 million other people, including the disabled, mentally ill, Soviet POWs, Roma, homosexuals, Freemasons, and Jehovah's Witnesses, were also murdered in a genocidal program. Soviet POWs were treated in inhumane conditions, with 3.6 million out of 5.7 million dying in Nazi camps. In addition to concentration camps, death camps were constructed for mass extermination. Approximately 12 million Europeans from occupied countries were used as forced laborers in Nazi industries and the war economy.",
+            "question": "What were the main atrocities committed by Nazi Germany during World War II?",
+            "answer": "Nazi Germany was responsible for the murder of 6 million Jews in the Holocaust, and another 4 million people from various groups. They also used 12 million Europeans as forced laborers in Nazi industries and death camps."
+          },
+          {
+            "context": "The Soviet Union also had a brutal system of labor camps known as the Gulag. In 1942-1943, the harsh conditions caused widespread death, including among Axis POWs and civilians from countries occupied by the Soviet Union. Soviet POWs who were liberated from Nazi camps were often sent to filtration camps and, in many cases, were detained in the Gulag for being perceived as Nazi collaborators. The Gulag became a de facto system of deadly camps.",
+            "question": "What role did the Soviet Union's Gulag system play during and after World War II?",
+            "answer": "The Soviet Union's Gulag system became a deadly network of camps, where many Soviet POWs and civilians were detained, especially those perceived as Nazi collaborators. The conditions caused widespread suffering and death, particularly in 1942-1943."
+          },
+          {
+            "context": "Japanese prisoner-of-war camps, many of which were labor camps, had high mortality rates, with Western prisoners facing a death rate of 27 percent, and American POWs experiencing a 37 percent death rate. Chinese civilians from northern China and Manchukuo were enslaved by the East Asia Development Board for work in mines and war industries, with 5 million enslaved between 1935 and 1941, and the number rising to 10 million after 1942. Additionally, 4 to 10 million rōmusha (manual laborers) were forced to work in Southeast Asia by the Japanese military.",
+            "question": "What were the conditions like in Japanese prisoner-of-war camps and how did Japan exploit forced labor?",
+            "answer": "Japanese POW camps had high mortality rates, especially for Western prisoners. Japan enslaved millions of Chinese civilians and used them for labor in mines and war industries. Additionally, millions of Javanese laborers were forced to work in Southeast Asia under harsh conditions."
+          },
+          {
+            "context": "The use of forced labor during World War II by both Nazi Germany and Japan led to the enslavement of millions of people. Nazi Germany used about 12 million Europeans from occupied territories as forced laborers in industries, agriculture, and war-related work. Similarly, Japan enslaved over 18 million people, primarily from its occupied territories, and forced them into labor for the war effort.",
+            "question": "How did Nazi Germany and Japan use forced labor during World War II?",
+            "answer": "Nazi Germany enslaved 12 million Europeans from occupied territories, using them in industries, agriculture, and war-related work. Japan similarly enslaved over 18 million people, primarily from its occupied territories, to support the war effort."
+          },
+          {
+            "context": "During World War II, the Nazis conducted inhumane medical experiments on prisoners, including children. About 230,000 children were held prisoner, many subjected to forced labor and medical experiments. This was part of the broader inhumane treatment of prisoners in Nazi concentration camps, where experimentation, including sterilization and exposure to dangerous substances, was carried out on a large scale.",
+            "question": "What kind of medical experiments were conducted by the Nazis on prisoners?",
+            "answer": "The Nazis performed inhumane medical experiments on prisoners, including children. These experiments involved sterilization, exposure to dangerous substances, and other brutal procedures in concentration camps."
+          },
+          {
+            "context": "The Japanese military exploited forced labor during World War II, especially in occupied areas of Asia. Large numbers of civilians were enslaved, including 5 million Chinese between 1935 and 1941. The forced labor system reached its peak after 1942, with the total number of enslaved people rising to 10 million. These laborers were used in mines, war industries, and other essential military work.",
+            "question": "How extensive was the forced labor system implemented by Japan during World War II?",
+            "answer": "Japan enslaved millions of people during World War II, including 5 million Chinese between 1935 and 1941. The total number of enslaved people reached 10 million by 1942, and they were used in labor for mines, war industries, and other military work."
+          },
+          {
+            "context": "The extermination camps such as Treblinka, Sobibor, and Auschwitz-Birkenau were key components of the Holocaust, where millions of Jews, Roma, and other groups were systematically murdered. These camps were designed for industrial-scale killings, primarily through gas chambers and mass shootings.",
+            "question": "What was the role of extermination camps in the Holocaust?",
+            "answer": "Extermination camps like Treblinka, Sobibor, and Auschwitz-Birkenau were central to the Holocaust. These camps were designed for the industrial-scale murder of Jews, Roma, and others through gas chambers and mass shootings."
+          },
+          {
+            "context": "In early 1942, the Allies, including the Soviet Union, China, the United Kingdom, and the United States, along with 22 smaller or exiled governments, issued the Declaration by United Nations, which supported the Atlantic Charter and agreed not to sign a separate peace with the Axis powers.",
+            "question": "What was the significance of the Declaration by United Nations issued in early 1942?",
+            "answer": "The Declaration by United Nations affirmed the Atlantic Charter and represented a unified front against the Axis powers, with the commitment that the Allies would not sign a separate peace with the Axis."
+          },
+          {
+            "context": "In 1942, the Allies debated their grand strategy, with different views on how to defeat Nazi Germany. The Americans favored a large-scale attack on Germany through France, while the Soviets demanded a second front, and the British preferred a strategy of targeting peripheral areas and launching a heavy bombing campaign against Germany.",
+            "question": "What were the differing views of the Allies on how to defeat Germany in 1942?",
+            "answer": "The Americans favored a large-scale attack on Germany through France, the Soviets demanded a second front, and the British argued for targeting peripheral areas and conducting a heavy bombing campaign against Germany."
+          },
+          {
+            "context": "At the Casablanca Conference in early 1943, the Allies agreed to continue their offensive in the Mediterranean, with plans to invade Sicily to secure vital supply routes. The British had initially suggested further operations in the Balkans to bring Turkey into the war, but the Americans persuaded the British to limit operations to Italy and plan for an invasion of France in 1944.",
+            "question": "What decisions were made at the Casablanca Conference in early 1943?",
+            "answer": "At the Casablanca Conference, the Allies agreed to invade Sicily to secure Mediterranean supply routes, limit operations to the Italian mainland, and prepare for a larger invasion of France in 1944."
+          },
+          {
+            "context": "The British and Americans debated their approach to defeating Germany in 1942, with the British persuading the Americans to focus on North Africa instead of a direct attack on France, arguing that a landing in France was infeasible in 1942.",
+            "question": "Why did the British persuade the Americans to focus on North Africa in 1942 instead of France?",
+            "answer": "The British argued that a landing in France was infeasible in 1942, leading to the decision to focus on North Africa as the next step in the Allied strategy."
+          },
+          {
+            "context": "The Allies’ main goal during 1942 and 1943 was defeating Germany. However, the strategies differed, with the Americans wanting a direct attack on Germany and the British preferring a gradual approach, using peripheral attacks and strategic bombing campaigns.",
+            "question": "What was the primary goal of the Allies during 1942–1943, and what were the differing strategies?",
+            "answer": "The primary goal was to defeat Germany, with the Americans wanting a direct attack through France and the British preferring a more gradual approach, including peripheral attacks and strategic bombing campaigns."
+          },
+          {
+            "context": "In April 1941, the Soviet Union and Japan signed the Soviet–Japanese Neutrality Pact due to growing tensions with Germany. At the same time, Germany was preparing for an attack on the Soviet Union, massing forces on the Soviet border.",
+            "question": "Why did the Soviet Union and Japan sign the Soviet–Japanese Neutrality Pact in 1941?",
+            "answer": "The Soviet Union and Japan signed the pact due to rising tensions with Germany, and both countries sought to avoid conflict with each other while Germany prepared for an invasion of the Soviet Union."
+          },
+          {
+            "context": "Hitler aimed to eliminate the Soviet Union as a military power and expand Germany's territory by conquering Ukraine, the Baltic states, and Byelorussia. His ultimate goal was to create Lebensraum and gain access to vital resources.",
+            "question": "What were Hitler's objectives for invading the Soviet Union in 1941?",
+            "answer": "Hitler's objectives included eliminating the Soviet Union as a military power, exterminating Communism, creating Lebensraum, and securing strategic resources to strengthen Germany's position."
+          },
+          {
+            "context": "On 22 June 1941, Germany launched Operation Barbarossa, an invasion of the Soviet Union, supported by Italy, Romania, Finland, and Hungary. The primary targets were the Baltic region, Moscow, and Ukraine.",
+            "question": "What was Operation Barbarossa and which countries participated in the invasion of the Soviet Union?",
+            "answer": "Operation Barbarossa was a German invasion of the Soviet Union, launched on 22 June 1941. It was supported by Italy, Romania, Finland, and Hungary, and targeted the Baltic region, Moscow, and Ukraine."
+          },
+          {
+            "context": "Although the Soviet Red Army had prepared counter-offensives, Operation Barbarossa forced them to adopt a strategic defense. The Axis forces made significant gains, inflicting heavy losses on the Soviet Union.",
+            "question": "How did the Soviet Union respond to the Axis invasion during Operation Barbarossa?",
+            "answer": "The Soviet Union, despite preparing for counter-offensives, was forced to adopt a strategic defense due to the surprise and scale of Operation Barbarossa, which led to significant Axis territorial gains and heavy Soviet losses."
+          },
+          {
+            "context": "By mid-August 1941, the German High Command decided to suspend the offensive towards Moscow and diverted troops to reinforce the advance into Ukraine and Leningrad, achieving significant success with the Kiev offensive.",
+            "question": "What strategic change did the German High Command make by mid-August 1941 during the invasion of the Soviet Union?",
+            "answer": "The German High Command suspended the offensive towards Moscow and redirected forces to reinforce the advance into Ukraine and Leningrad, leading to the successful encirclement of Soviet armies during the Kiev offensive."
+          },
+          {
+            "context": "In late 1941, the United Kingdom and the Soviet Union formed a military alliance against Germany. The British and Soviets also invaded neutral Iran to secure the Persian Corridor and prevent Axis advances into the region.",
+            "question": "What was the purpose of the British and Soviet invasion of Iran in 1941?",
+            "answer": "The British and Soviet invasion of Iran in 1941 aimed to secure the Persian Corridor, protect Iran's oil fields, and prevent any Axis powers from advancing toward the Baku oil fields or India."
+          },
+          {
+            "context": "By October 1941, the Axis powers had achieved their operational objectives in Ukraine and the Baltic region, but the sieges of Leningrad and Sevastopol continued, and the major offensive against Moscow had failed.",
+            "question": "What were the outcomes of the Axis invasion of the Soviet Union by October 1941?",
+            "answer": "By October 1941, the Axis powers had achieved their objectives in Ukraine and the Baltic, but the sieges of Leningrad and Sevastopol continued, and the major offensive against Moscow had failed to achieve its goal."
+          },
+          {
+            "context": "In December 1941, Soviet reserves were mobilized, and the Soviet Union launched a massive counter-offensive that pushed German troops 100-250 kilometers west along the front.",
+            "question": "What was the significance of the Soviet counter-offensive in December 1941?",
+            "answer": "The Soviet counter-offensive in December 1941 was significant because it pushed German troops back 100-250 kilometers, marking the beginning of a shift in the war on the Eastern Front and ending the blitzkrieg phase in Europe."
+          },
+          {
+            "context": "On 16 December 1944, Germany launched a massive counter-offensive in the Ardennes, hoping to split the Allies and capture Antwerp, but by 16 January 1945, the offensive was repulsed with no strategic objectives fulfilled.",
+            "question": "What was the goal of Germany's counter-offensive in the Ardennes in December 1944, and what was the outcome?",
+            "answer": "Germany's goal was to split the Allies and capture Antwerp to force a political settlement, but the offensive was repulsed by 16 January 1945 with no strategic objectives achieved."
+          },
+          {
+            "context": "In mid-January 1945, the Red Army launched an offensive in Poland, pushing from the Vistula to the Oder river and overran East Prussia.",
+            "question": "What was the Red Army's offensive in January 1945, and what territories did it capture?",
+            "answer": "The Red Army launched an offensive in Poland, pushing from the Vistula to the Oder river and capturing East Prussia."
+          },
+          {
+            "context": "The Yalta Conference in February 1945, attended by Soviet, British, and U.S. leaders, resulted in agreements on the occupation of post-war Germany and the Soviet Union's entry into the war against Japan.",
+            "question": "What were the main outcomes of the Yalta Conference in February 1945?",
+            "answer": "The main outcomes of the Yalta Conference included agreements on the occupation of post-war Germany and the Soviet Union's commitment to join the war against Japan."
+          },
+          {
+            "context": "By March 1945, the Western Allies had crossed the Rhine River, encircling German Army Group B, while Soviet forces advanced through Silesia and Pomerania.",
+            "question": "What major advancements did the Allies make by March 1945?",
+            "answer": "By March 1945, the Western Allies crossed the Rhine River, encircling German Army Group B, while Soviet forces advanced through Silesia and Pomerania."
+          },
+          {
+            "context": "In March 1945, Germany launched its last major offensive near Lake Balaton to protect oil reserves in Hungary, but the offensive was repulsed, and the Soviets captured Vienna.",
+            "question": "What was Germany's last major offensive in March 1945, and what was its outcome?",
+            "answer": "Germany's last major offensive was launched near Lake Balaton to protect oil reserves in Hungary, but it was repulsed, and the Soviets captured Vienna."
+          },
+          {
+            "context": "In early April 1945, Soviet troops captured Königsberg, while Western Allies advanced across western Germany, capturing Hamburg and Nuremberg.",
+            "question": "What successes did the Allies achieve in early April 1945?",
+            "answer": "In early April 1945, Soviet troops captured Königsberg, while Western Allies advanced across western Germany and captured Hamburg and Nuremberg."
+          },
+          {
+            "context": "On 25 April 1945, American and Soviet forces met at the Elbe river, while Soviet troops stormed and captured Berlin later that month.",
+            "question": "What significant event occurred on 25 April 1945, and what followed in Berlin?",
+            "answer": "On 25 April 1945, American and Soviet forces met at the Elbe river, and Soviet troops stormed and captured Berlin later that month."
+          },
+          {
+            "context": "On 30 April 1945, Hitler committed suicide, and Germany's leadership was passed to Grand Admiral Karl Dönitz and Joseph Goebbels. Goebbels also committed suicide the next day.",
+            "question": "What happened to Hitler and Germany's leadership in April 1945?",
+            "answer": "On 30 April 1945, Hitler committed suicide, and the leadership of Germany was passed to Grand Admiral Karl Dönitz and Joseph Goebbels, who also committed suicide the next day."
+          },
+          {
+            "context": "On 7 and 8 May 1945, Germany signed an unconditional surrender, marking the end of World War II in Europe. The surrender took effect on 8 May, and German Army Group Centre resisted in Prague until 11 May.",
+            "question": "When did Germany sign its unconditional surrender in 1945, and what happened afterward?",
+            "answer": "Germany signed its unconditional surrender on 7 and 8 May 1945, effective by the end of 8 May. German Army Group Centre resisted in Prague until 11 May."
+          },
+          {
+            "context": "In the Pacific, American forces advanced in the Philippines, clearing Leyte by April 1945 and landing on Luzon in January 1945. Meanwhile, Japan was facing devastating air raids and a naval blockade.",
+            "question": "What were the key American actions in the Pacific during early 1945?",
+            "answer": "In early 1945, American forces advanced in the Philippines, cleared Leyte by April, landed on Luzon in January, and faced Japan's deteriorating war capabilities due to air raids and a naval blockade."
+          },
+          {
+            "context": "On 11 July 1945, Allied leaders met at the Potsdam Conference, where they confirmed agreements about post-war Germany and reiterated the demand for Japan's unconditional surrender.",
+            "question": "What was the outcome of the Potsdam Conference in July 1945?",
+            "answer": "The Potsdam Conference in July 1945 confirmed agreements about post-war Germany and reiterated the demand for Japan's unconditional surrender."
+          },
+          {
+            "context": "In early August 1945, the United States dropped atomic bombs on Hiroshima and Nagasaki, while the Soviets declared war on Japan and quickly defeated the Kwantung Army in Manchuria.",
+            "question": "What major events occurred in August 1945 that led to Japan's surrender?",
+            "answer": "In August 1945, the United States dropped atomic bombs on Hiroshima and Nagasaki, and the Soviets declared war on Japan, defeating the Kwantung Army in Manchuria."
+          },
+          {
+            "context": "On 15 August 1945, Emperor Hirohito announced Japan's decision to accept the surrender terms, and on 2 September 1945, Japan signed the formal surrender documents on the USS Missouri, ending World War II.",
+            "question": "When did Japan announce its surrender, and when was the formal surrender signed?",
+            "answer": "Japan announced its surrender on 15 August 1945, and the formal surrender was signed on 2 September 1945 aboard the USS Missouri."
+          },
+          {
+            "context": "In March 1938, Germany annexed Austria with little opposition.",
+            "question": "What territory did Germany annex in March 1938?",
+            "answer": "Austria"
+          },
+          {
+            "context": "The UK and France, following British Prime Minister Neville Chamberlain's appeasement policy, agreed to Hitler’s demands in the Munich Agreement (29 September 1938), despite opposition from Czechoslovakia.",
+            "question": "Which agreement allowed Germany to annex the Sudetenland?",
+            "answer": "The Munich Agreement"
+          },
+          {
+            "context": "Germany and Italy then pressured Czechoslovakia to cede land to Hungary, while Poland annexed the Trans-Olza region.",
+            "question": "Which country annexed the Trans-Olza region of Czechoslovakia?",
+            "answer": "Poland"
+          },
+          {
+            "context": "In March 1939, Germany took over all of Czechoslovakia, turning it into the Protectorate of Bohemia and Moravia and setting up a pro-German Slovak Republic.",
+            "question": "What did Germany turn the remaining parts of Czechoslovakia into in March 1939?",
+            "answer": "The Protectorate of Bohemia and Moravia"
+          },
+          {
+            "context": "Germany and the Soviet Union signed the Molotov–Ribbentrop Pact on 23 August 1939, which secretly divided Eastern Europe into spheres of influence.",
+            "question": "What was the name of the non-aggression pact between Germany and the Soviet Union?",
+            "answer": "Molotov–Ribbentrop Pact"
+          },
+          {
+            "context": "The UK and France guaranteed Polish independence after Hitler made demands on the Free City of Danzig.",
+            "question": "Which countries guaranteed Polish independence before World War II?",
+            "answer": "The United Kingdom and France"
+          },
+          {
+            "context": "Germany and Italy formalized their alliance with the Pact of Steel.",
+            "question": "What was the name of the alliance signed between Germany and Italy before World War II?",
+            "answer": "The Pact of Steel"
+          },
+          {
+            "context": "Hitler accused the UK and Poland of encircling Germany and renounced the Anglo-German Naval Agreement and the German–Polish declaration of non-aggression.",
+            "question": "Which agreements did Hitler renounce before invading Poland?",
+            "answer": "The Anglo-German Naval Agreement and the German–Polish declaration of non-aggression"
+          },
+          {
+            "context": "On 29 August, Hitler demanded that a Polish plenipotentiary immediately travel to Berlin to negotiate the handover of Danzig and allow a plebiscite in the Polish Corridor.",
+            "question": "What did Hitler demand from Poland on 29 August 1939?",
+            "answer": "The handover of Danzig and a plebiscite in the Polish Corridor"
+          },
+          {
+            "context": "On the night of 30–31 August, Germany declared that its claims were rejected, setting the stage for war.",
+            "question": "When did Germany declare that its claims were rejected, leading to the invasion of Poland?",
+            "answer": "On the night of 30–31 August 1939"
+          },
+          {
+            "context": "In early 1942, Germany and its allies halted a Soviet offensive in central and southern Russia, maintaining most of the territory they had gained the previous year.",
+            "question": "What did Germany and its allies achieve in early 1942 on the Eastern Front?",
+            "answer": "They halted a Soviet offensive and maintained most of their territorial gains."
+          },
+          {
+            "context": "In May 1942, Germany defeated Soviet offensives in the Kerch Peninsula and at Kharkov.",
+            "question": "Which Soviet offensives did Germany defeat in May 1942?",
+            "answer": "The offensives in the Kerch Peninsula and at Kharkov."
+          },
+          {
+            "context": "Germany launched its main summer offensive in June 1942 to capture the Caucasus oil fields and occupy the Kuban steppe.",
+            "question": "What were the objectives of Germany’s 1942 summer offensive?",
+            "answer": "To capture the Caucasus oil fields and occupy the Kuban steppe."
+          },
+          {
+            "context": "Army Group South was split into Army Group A, which advanced toward the Caucasus, and Army Group B, which moved toward the Volga River.",
+            "question": "What was the purpose of splitting Army Group South in 1942?",
+            "answer": "To send Army Group A to the Caucasus and Army Group B to the Volga River."
+          },
+          {
+            "context": "The Soviets made a stand at Stalingrad, where the Germans engaged in bitter street fighting by mid-November 1942.",
+            "question": "Where did the Soviets decide to make a stand during Germany’s 1942 offensive?",
+            "answer": "Stalingrad."
+          },
+          {
+            "context": "In November 1942, the Soviets launched a counter-offensive that encircled the German forces at Stalingrad.",
+            "question": "What major Soviet action began in November 1942?",
+            "answer": "A counter-offensive that encircled German forces at Stalingrad."
+          },
+          {
+            "context": "The Soviets also attacked the Rzhev salient near Moscow, but this offensive failed.",
+            "question": "Which Soviet offensive near Moscow in late 1942 failed?",
+            "answer": "The attack on the Rzhev salient."
+          },
+          {
+            "context": "By early February 1943, the German Army was defeated at Stalingrad and had suffered heavy losses.",
+            "question": "What was the outcome of the Battle of Stalingrad by February 1943?",
+            "answer": "The German Army was defeated and suffered heavy losses."
+          },
+          {
+            "context": "In mid-February 1943, after Soviet advances slowed, Germany launched a counterattack on Kharkov.",
+            "question": "What did Germany do in mid-February 1943 after Soviet progress slowed?",
+            "answer": "Launched a counterattack on Kharkov."
+          },
+          {
+            "context": "The German attack on Kharkov created a salient around the Soviet city of Kursk.",
+            "question": "What geographical consequence did the German counterattack on Kharkov have?",
+            "answer": "It created a salient around Kursk."
+          },
+          {
+            "context": "World War I ended with the defeat of the Central Powers and the Bolshevik revolution in Russia, leading to major political changes across Europe.",
+            "question": "What major events led to the political transformation of Europe after World War I?",
+            "answer": "The defeat of the Central Powers and the Bolshevik revolution in Russia."
+          },
+          {
+            "context": "The League of Nations was founded in 1920 to prevent future conflicts through collective security and peaceful dispute resolution.",
+            "question": "What was the purpose of establishing the League of Nations?",
+            "answer": "To prevent armed conflict and resolve disputes peacefully."
+          },
+          {
+            "context": "Germany experienced strong revanchist and nationalist sentiment due to the harsh terms of the Treaty of Versailles.",
+            "question": "Why did Germany develop strong nationalist sentiment after World War I?",
+            "answer": "Because of the territorial, colonial, and financial losses imposed by the Treaty of Versailles."
+          },
+          {
+            "context": "The Treaty of Versailles reduced Germany's territory by 13% and prohibited annexation, imposed reparations, and limited its military.",
+            "question": "What were some of the restrictions placed on Germany by the Treaty of Versailles?",
+            "answer": "Territorial losses, reparations, military limitations, and prohibition of annexation."
+          },
+          {
+            "context": "The Weimar Republic was established in Germany after the revolution of 1918–1919, facing opposition from both political extremes.",
+            "question": "What form of government replaced the German Empire after World War I?",
+            "answer": "The Weimar Republic."
+          },
+          {
+            "context": "Mussolini’s Fascist regime took control in Italy from 1922–1925 and promoted a totalitarian, nationalist, and expansionist agenda.",
+            "question": "What were key characteristics of Mussolini’s Fascist regime in Italy?",
+            "answer": "Totalitarianism, nationalism, expansionism, and suppression of democracy."
+          },
+          {
+            "context": "Hitler became Chancellor of Germany in 1933 and later Führer, abolishing democracy and initiating a rearmament campaign.",
+            "question": "What did Hitler do after becoming Chancellor of Germany?",
+            "answer": "He abolished democracy and began a rearmament campaign."
+          },
+          {
+            "context": "France allowed Italy a free hand in Ethiopia to secure its alliance, worsening tensions in Europe.",
+            "question": "Why did France allow Italy to act freely in Ethiopia?",
+            "answer": "To secure its alliance with Italy."
+          },
+          {
+            "context": "The Stresa Front was formed in 1935 by the UK, France, and Italy to contain Germany, but was weakened when the UK made a naval pact with Germany.",
+            "question": "What undermined the Stresa Front formed to contain Germany?",
+            "answer": "The UK’s separate naval agreement with Germany."
+          },
+          {
+            "context": "The Soviet Union and France signed a mutual assistance treaty, but its effectiveness was reduced due to League of Nations bureaucracy.",
+            "question": "Why was the Franco-Soviet mutual assistance pact ineffective?",
+            "answer": "Because it had to go through the League of Nations’ bureaucracy."
+          },
+          {
+            "context": "The US passed the Neutrality Act in 1935, reflecting concerns about growing international tensions.",
+            "question": "What was the purpose of the US Neutrality Act of 1935?",
+            "answer": "To avoid involvement in international conflicts."
+          },
+          {
+            "context": "In 1936, Hitler remilitarized the Rhineland in defiance of the Versailles and Locarno Treaties, facing little opposition.",
+            "question": "How did Hitler defy the Treaty of Versailles in 1936?",
+            "answer": "By remilitarizing the Rhineland."
+          },
+          {
+            "context": "Germany and Italy formed the Rome–Berlin Axis in October 1936.",
+            "question": "What was the Rome–Berlin Axis?",
+            "answer": "An alliance between Germany and Italy formed in 1936."
+          },
+          {
+            "context": "Japan signed the Anti-Comintern Pact with Germany in 1936, and Italy joined in 1937.",
+            "question": "Which countries were part of the Anti-Comintern Pact?",
+            "answer": "Germany, Japan, and later Italy."
+          },
+          {
+            "context": "The Kuomintang unified China in the mid-1920s but later fought a civil war against the CCP.",
+            "question": "What internal conflict did China face after unification?",
+            "answer": "A civil war between the Kuomintang and the Chinese Communist Party."
+          },
+          {
+            "context": "Japan staged the Mukden Incident in 1931 as a pretext to invade Manchuria and set up the puppet state of Manchukuo.",
+            "question": "What was the Mukden Incident and its result?",
+            "answer": "A pretext by Japan to invade Manchuria and establish Manchukuo."
+          },
+          {
+            "context": "Japan withdrew from the League of Nations after being condemned for invading Manchuria.",
+            "question": "Why did Japan leave the League of Nations?",
+            "answer": "Because it was condemned for its invasion of Manchuria."
+          },
+          {
+            "context": "After battles in Shanghai, Rehe, and Hebei, the Tanggu Truce was signed in 1933 between China and Japan.",
+            "question": "What ended the early fighting between China and Japan in the 1930s?",
+            "answer": "The Tanggu Truce in 1933."
+          },
+          {
+            "context": "Despite the truce, Chinese volunteer forces continued to resist Japanese aggression in regions like Manchuria, Chahar, and Suiyuan.",
+            "question": "Where did Chinese volunteer forces resist Japanese aggression after the truce?",
+            "answer": "In Manchuria, Chahar, and Suiyuan."
+          },
+          {
+            "context": "Following the 1936 Xi'an Incident, the Kuomintang and CCP agreed on a ceasefire to unite against Japan.",
+            "question": "What resulted from the Xi'an Incident in 1936?",
+            "answer": "A ceasefire between the Kuomintang and CCP to oppose Japan."
+          },
+          {
+            "context": "During World War II, Germany occupied much of Western, Northern, and Central Europe, enforcing economic policies that allowed it to collect massive financial and material resources. In Eastern Europe, the Nazis pursued brutal racial policies, especially against Slavic populations. Resistance movements existed across Europe and Asia, but their effectiveness varied over time. Japan occupied many Asian territories under the guise of liberation, but its war crimes often led to widespread resentment.",
+            "question": "How much money did Germany collect from occupied countries by the end of World War II?",
+            "answer": "Germany collected approximately 69.5 billion reichsmarks (27.8 billion U.S. dollars) by the end of the war."
+          },
+          {
+            "context": "During World War II, Germany occupied much of Western, Northern, and Central Europe, enforcing economic policies that allowed it to collect massive financial and material resources. In Eastern Europe, the Nazis pursued brutal racial policies, especially against Slavic populations. Resistance movements existed across Europe and Asia, but their effectiveness varied over time. Japan occupied many Asian territories under the guise of liberation, but its war crimes often led to widespread resentment.",
+            "question": "What percentage of Germany’s total income came from occupied nations?",
+            "answer": "Income from occupied nations made up over 40 percent of Germany’s total income during the war."
+          },
+          {
+            "context": "During World War II, Germany occupied much of Western, Northern, and Central Europe, enforcing economic policies that allowed it to collect massive financial and material resources. In Eastern Europe, the Nazis pursued brutal racial policies, especially against Slavic populations. Resistance movements existed across Europe and Asia, but their effectiveness varied over time. Japan occupied many Asian territories under the guise of liberation, but its war crimes often led to widespread resentment.",
+            "question": "How many Soviet civilians died under German occupation?",
+            "answer": "Approximately 13.7 million Soviet civilians died under German occupation."
+          },
+          {
+            "context": "During World War II, Germany occupied much of Western, Northern, and Central Europe, enforcing economic policies that allowed it to collect massive financial and material resources. In Eastern Europe, the Nazis pursued brutal racial policies, especially against Slavic populations. Resistance movements existed across Europe and Asia, but their effectiveness varied over time. Japan occupied many Asian territories under the guise of liberation, but its war crimes often led to widespread resentment.",
+            "question": "What was the impact of Nazi racial policy in Eastern Europe?",
+            "answer": "It led to extreme brutality and mass atrocities against Slavic peoples and other groups considered 'inferior.'"
+          },
+          {
+            "context": "During World War II, Germany occupied much of Western, Northern, and Central Europe, enforcing economic policies that allowed it to collect massive financial and material resources. In Eastern Europe, the Nazis pursued brutal racial policies, especially against Slavic populations. Resistance movements existed across Europe and Asia, but their effectiveness varied over time. Japan occupied many Asian territories under the guise of liberation, but its war crimes often led to widespread resentment.",
+            "question": "How many ethnic Poles were killed by Nazis during the war?",
+            "answer": "An estimated 2.77 million ethnic Poles were killed by the Nazis."
+          },
+          {
+            "context": "During World War II, Germany occupied much of Western, Northern, and Central Europe, enforcing economic policies that allowed it to collect massive financial and material resources. In Eastern Europe, the Nazis pursued brutal racial policies, especially against Slavic populations. Resistance movements existed across Europe and Asia, but their effectiveness varied over time. Japan occupied many Asian territories under the guise of liberation, but its war crimes often led to widespread resentment.",
+            "question": "When did resistance groups start to significantly hamper German operations?",
+            "answer": "Resistance groups became significantly effective only after late 1943."
+          },
+          {
+            "context": "During World War II, Germany occupied much of Western, Northern, and Central Europe, enforcing economic policies that allowed it to collect massive financial and material resources. In Eastern Europe, the Nazis pursued brutal racial policies, especially against Slavic populations. Resistance movements existed across Europe and Asia, but their effectiveness varied over time. Japan occupied many Asian territories under the guise of liberation, but its war crimes often led to widespread resentment.",
+            "question": "What was Japan's stated purpose for creating the Greater East Asia Co-Prosperity Sphere?",
+            "answer": "Japan claimed it was to liberate colonized peoples."
+          },
+          {
+            "context": "During World War II, Germany occupied much of Western, Northern, and Central Europe, enforcing economic policies that allowed it to collect massive financial and material resources. In Eastern Europe, the Nazis pursued brutal racial policies, especially against Slavic populations. Resistance movements existed across Europe and Asia, but their effectiveness varied over time. Japan occupied many Asian territories under the guise of liberation, but its war crimes often led to widespread resentment.",
+            "question": "What turned public opinion against Japanese occupation in Asia?",
+            "answer": "Japanese war crimes frequently turned local public opinion against them."
+          },
+          {
+            "context": "During World War II, Germany occupied much of Western, Northern, and Central Europe, enforcing economic policies that allowed it to collect massive financial and material resources. In Eastern Europe, the Nazis pursued brutal racial policies, especially against Slavic populations. Resistance movements existed across Europe and Asia, but their effectiveness varied over time. Japan occupied many Asian territories under the guise of liberation, but its war crimes often led to widespread resentment.",
+            "question": "How much oil did Japan recover from retreating Allied forces during their initial conquests?",
+            "answer": "Japan captured 4,000,000 barrels (about 550,000 tonnes) of oil."
+          },
+          {
+            "context": "During World War II, Germany occupied much of Western, Northern, and Central Europe, enforcing economic policies that allowed it to collect massive financial and material resources. In Eastern Europe, the Nazis pursued brutal racial policies, especially against Slavic populations. Resistance movements existed across Europe and Asia, but their effectiveness varied over time. Japan occupied many Asian territories under the guise of liberation, but its war crimes often led to widespread resentment.",
+            "question": "By 1943, how much oil was Japan producing in the Dutch East Indies?",
+            "answer": "By 1943, Japan was producing about 50 million barrels (approximately 6.8 million tonnes) of oil annually in the Dutch East Indies."
+          },
+          {
+            "context": "The German Empire was dissolved in the German revolution of 1918–1919, and a democratic government, later known as the Weimar Republic, was created. The interwar period saw strife between supporters of the new republic and hardline opponents on both the political right and left. Italy, as an Entente ally, had made some post-war territorial gains; however, Italian nationalists were angered that the promises made by the United Kingdom and France to secure Italian entrance into the war were not fulfilled in the peace settlement. From 1922 to 1925, the Fascist movement led by Benito Mussolini seized power in Italy with a nationalist, totalitarian, and class collaborationist agenda that abolished representative democracy, repressed socialist, left-wing, and liberal forces, and pursued an aggressive expansionist foreign policy aimed at making Italy a world power, promising the creation of a \"New Roman Empire\". Adolf Hitler, after an unsuccessful attempt to overthrow the German government in 1923, eventually became the chancellor of Germany in 1933 when President Paul von Hindenburg and the Reichstag appointed him. Following Hindenburg's death in 1934, Hitler proclaimed himself Führer of Germany and abolished democracy, espousing a radical, racially motivated revision of the world order, and soon began a massive rearmament campaign. France, seeking to secure its alliance with Italy, allowed Italy a free hand in Ethiopia, which Italy desired as a colonial possession. The situation was aggravated in early 1935 when the Territory of the Saar Basin was legally reunited with Germany, and Hitler repudiated the Treaty of Versailles, accelerated his rearmament programme, and introduced conscription.",
+            "question": "When was the Weimar Republic created?",
+            "answer": "Following the German revolution of 1918–1919."
+          },
+          {
+            "context": "The German Empire was dissolved in the German revolution of 1918–1919, and a democratic government, later known as the Weimar Republic, was created. The interwar period saw strife between supporters of the new republic and hardline opponents on both the political right and left. Italy, as an Entente ally, had made some post-war territorial gains; however, Italian nationalists were angered that the promises made by the United Kingdom and France to secure Italian entrance into the war were not fulfilled in the peace settlement. From 1922 to 1925, the Fascist movement led by Benito Mussolini seized power in Italy with a nationalist, totalitarian, and class collaborationist agenda that abolished representative democracy, repressed socialist, left-wing, and liberal forces, and pursued an aggressive expansionist foreign policy aimed at making Italy a world power, promising the creation of a \"New Roman Empire\". Adolf Hitler, after an unsuccessful attempt to overthrow the German government in 1923, eventually became the chancellor of Germany in 1933 when President Paul von Hindenburg and the Reichstag appointed him. Following Hindenburg's death in 1934, Hitler proclaimed himself Führer of Germany and abolished democracy, espousing a radical, racially motivated revision of the world order, and soon began a massive rearmament campaign. France, seeking to secure its alliance with Italy, allowed Italy a free hand in Ethiopia, which Italy desired as a colonial possession. The situation was aggravated in early 1935 when the Territory of the Saar Basin was legally reunited with Germany, and Hitler repudiated the Treaty of Versailles, accelerated his rearmament programme, and introduced conscription.",
+            "question": "Who seized power in Italy between 1922 and 1925?",
+            "answer": "The Fascist movement led by Benito Mussolini."
+          },
+          {
+            "context": "The German Empire was dissolved in the German revolution of 1918–1919, and a democratic government, later known as the Weimar Republic, was created. The interwar period saw strife between supporters of the new republic and hardline opponents on both the political right and left. Italy, as an Entente ally, had made some post-war territorial gains; however, Italian nationalists were angered that the promises made by the United Kingdom and France to secure Italian entrance into the war were not fulfilled in the peace settlement. From 1922 to 1925, the Fascist movement led by Benito Mussolini seized power in Italy with a nationalist, totalitarian, and class collaborationist agenda that abolished representative democracy, repressed socialist, left-wing, and liberal forces, and pursued an aggressive expansionist foreign policy aimed at making Italy a world power, promising the creation of a \"New Roman Empire\". Adolf Hitler, after an unsuccessful attempt to overthrow the German government in 1923, eventually became the chancellor of Germany in 1933 when President Paul von Hindenburg and the Reichstag appointed him. Following Hindenburg's death in 1934, Hitler proclaimed himself Führer of Germany and abolished democracy, espousing a radical, racially motivated revision of the world order, and soon began a massive rearmament campaign. France, seeking to secure its alliance with Italy, allowed Italy a free hand in Ethiopia, which Italy desired as a colonial possession. The situation was aggravated in early 1935 when the Territory of the Saar Basin was legally reunited with Germany, and Hitler repudiated the Treaty of Versailles, accelerated his rearmament programme, and introduced conscription.",
+            "question": "Why were Italian nationalists angered after World War I?",
+            "answer": "Because promises made by the UK and France to secure Italy’s entrance into the war were not fulfilled in the peace settlement."
+          },
+          {
+            "context": "The German Empire was dissolved in the German revolution of 1918–1919, and a democratic government, later known as the Weimar Republic, was created. The interwar period saw strife between supporters of the new republic and hardline opponents on both the political right and left. Italy, as an Entente ally, had made some post-war territorial gains; however, Italian nationalists were angered that the promises made by the United Kingdom and France to secure Italian entrance into the war were not fulfilled in the peace settlement. From 1922 to 1925, the Fascist movement led by Benito Mussolini seized power in Italy with a nationalist, totalitarian, and class collaborationist agenda that abolished representative democracy, repressed socialist, left-wing, and liberal forces, and pursued an aggressive expansionist foreign policy aimed at making Italy a world power, promising the creation of a \"New Roman Empire\". Adolf Hitler, after an unsuccessful attempt to overthrow the German government in 1923, eventually became the chancellor of Germany in 1933 when President Paul von Hindenburg and the Reichstag appointed him. Following Hindenburg's death in 1934, Hitler proclaimed himself Führer of Germany and abolished democracy, espousing a radical, racially motivated revision of the world order, and soon began a massive rearmament campaign. France, seeking to secure its alliance with Italy, allowed Italy a free hand in Ethiopia, which Italy desired as a colonial possession. The situation was aggravated in early 1935 when the Territory of the Saar Basin was legally reunited with Germany, and Hitler repudiated the Treaty of Versailles, accelerated his rearmament programme, and introduced conscription.",
+            "question": "When did Hitler become chancellor of Germany?",
+            "answer": "In 1933."
+          },
+          {
+            "context": "The German Empire was dissolved in the German revolution of 1918–1919, and a democratic government, later known as the Weimar Republic, was created. The interwar period saw strife between supporters of the new republic and hardline opponents on both the political right and left. Italy, as an Entente ally, had made some post-war territorial gains; however, Italian nationalists were angered that the promises made by the United Kingdom and France to secure Italian entrance into the war were not fulfilled in the peace settlement. From 1922 to 1925, the Fascist movement led by Benito Mussolini seized power in Italy with a nationalist, totalitarian, and class collaborationist agenda that abolished representative democracy, repressed socialist, left-wing, and liberal forces, and pursued an aggressive expansionist foreign policy aimed at making Italy a world power, promising the creation of a \"New Roman Empire\". Adolf Hitler, after an unsuccessful attempt to overthrow the German government in 1923, eventually became the chancellor of Germany in 1933 when President Paul von Hindenburg and the Reichstag appointed him. Following Hindenburg's death in 1934, Hitler proclaimed himself Führer of Germany and abolished democracy, espousing a radical, racially motivated revision of the world order, and soon began a massive rearmament campaign. France, seeking to secure its alliance with Italy, allowed Italy a free hand in Ethiopia, which Italy desired as a colonial possession. The situation was aggravated in early 1935 when the Territory of the Saar Basin was legally reunited with Germany, and Hitler repudiated the Treaty of Versailles, accelerated his rearmament programme, and introduced conscription.",
+            "question": "What title did Hitler assume after President Hindenburg’s death in 1934?",
+            "answer": "Führer of Germany."
+          },
+          {
+            "context": "The German Empire was dissolved in the German revolution of 1918–1919, and a democratic government, later known as the Weimar Republic, was created. The interwar period saw strife between supporters of the new republic and hardline opponents on both the political right and left. Italy, as an Entente ally, had made some post-war territorial gains; however, Italian nationalists were angered that the promises made by the United Kingdom and France to secure Italian entrance into the war were not fulfilled in the peace settlement. From 1922 to 1925, the Fascist movement led by Benito Mussolini seized power in Italy with a nationalist, totalitarian, and class collaborationist agenda that abolished representative democracy, repressed socialist, left-wing, and liberal forces, and pursued an aggressive expansionist foreign policy aimed at making Italy a world power, promising the creation of a \"New Roman Empire\". Adolf Hitler, after an unsuccessful attempt to overthrow the German government in 1923, eventually became the chancellor of Germany in 1933 when President Paul von Hindenburg and the Reichstag appointed him. Following Hindenburg's death in 1934, Hitler proclaimed himself Führer of Germany and abolished democracy, espousing a radical, racially motivated revision of the world order, and soon began a massive rearmament campaign. France, seeking to secure its alliance with Italy, allowed Italy a free hand in Ethiopia, which Italy desired as a colonial possession. The situation was aggravated in early 1935 when the Territory of the Saar Basin was legally reunited with Germany, and Hitler repudiated the Treaty of Versailles, accelerated his rearmament programme, and introduced conscription.",
+            "question": "Which treaty did Hitler repudiate in early 1935?",
+            "answer": "The Treaty of Versailles."
+          },
+          {
+            "context": "The German Empire was dissolved in the German revolution of 1918–1919, and a democratic government, later known as the Weimar Republic, was created. The interwar period saw strife between supporters of the new republic and hardline opponents on both the political right and left. Italy, as an Entente ally, had made some post-war territorial gains; however, Italian nationalists were angered that the promises made by the United Kingdom and France to secure Italian entrance into the war were not fulfilled in the peace settlement. From 1922 to 1925, the Fascist movement led by Benito Mussolini seized power in Italy with a nationalist, totalitarian, and class collaborationist agenda that abolished representative democracy, repressed socialist, left-wing, and liberal forces, and pursued an aggressive expansionist foreign policy aimed at making Italy a world power, promising the creation of a \"New Roman Empire\". Adolf Hitler, after an unsuccessful attempt to overthrow the German government in 1923, eventually became the chancellor of Germany in 1933 when President Paul von Hindenburg and the Reichstag appointed him. Following Hindenburg's death in 1934, Hitler proclaimed himself Führer of Germany and abolished democracy, espousing a radical, racially motivated revision of the world order, and soon began a massive rearmament campaign. France, seeking to secure its alliance with Italy, allowed Italy a free hand in Ethiopia, which Italy desired as a colonial possession. The situation was aggravated in early 1935 when the Territory of the Saar Basin was legally reunited with Germany, and Hitler repudiated the Treaty of Versailles, accelerated his rearmament programme, and introduced conscription.",
+            "question": "What actions did Hitler take after repudiating the Treaty of Versailles?",
+            "answer": "He accelerated his rearmament programme and introduced conscription."
+          },
+          {
+            "context": "The German Empire was dissolved in the German revolution of 1918–1919, and a democratic government, later known as the Weimar Republic, was created. The interwar period saw strife between supporters of the new republic and hardline opponents on both the political right and left. Italy, as an Entente ally, had made some post-war territorial gains; however, Italian nationalists were angered that the promises made by the United Kingdom and France to secure Italian entrance into the war were not fulfilled in the peace settlement. From 1922 to 1925, the Fascist movement led by Benito Mussolini seized power in Italy with a nationalist, totalitarian, and class collaborationist agenda that abolished representative democracy, repressed socialist, left-wing, and liberal forces, and pursued an aggressive expansionist foreign policy aimed at making Italy a world power, promising the creation of a \"New Roman Empire\". Adolf Hitler, after an unsuccessful attempt to overthrow the German government in 1923, eventually became the chancellor of Germany in 1933 when President Paul von Hindenburg and the Reichstag appointed him. Following Hindenburg's death in 1934, Hitler proclaimed himself Führer of Germany and abolished democracy, espousing a radical, racially motivated revision of the world order, and soon began a massive rearmament campaign. France, seeking to secure its alliance with Italy, allowed Italy a free hand in Ethiopia, which Italy desired as a colonial possession. The situation was aggravated in early 1935 when the Territory of the Saar Basin was legally reunited with Germany, and Hitler repudiated the Treaty of Versailles, accelerated his rearmament programme, and introduced conscription.",
+            "question": "What did France allow Italy to do in order to secure their alliance?",
+            "answer": "France allowed Italy a free hand in Ethiopia."
+          },
+          {
+            "context": "The German Empire was dissolved in the German revolution of 1918–1919, and a democratic government, later known as the Weimar Republic, was created. The interwar period saw strife between supporters of the new republic and hardline opponents on both the political right and left. Italy, as an Entente ally, had made some post-war territorial gains; however, Italian nationalists were angered that the promises made by the United Kingdom and France to secure Italian entrance into the war were not fulfilled in the peace settlement. From 1922 to 1925, the Fascist movement led by Benito Mussolini seized power in Italy with a nationalist, totalitarian, and class collaborationist agenda that abolished representative democracy, repressed socialist, left-wing, and liberal forces, and pursued an aggressive expansionist foreign policy aimed at making Italy a world power, promising the creation of a \"New Roman Empire\". Adolf Hitler, after an unsuccessful attempt to overthrow the German government in 1923, eventually became the chancellor of Germany in 1933 when President Paul von Hindenburg and the Reichstag appointed him. Following Hindenburg's death in 1934, Hitler proclaimed himself Führer of Germany and abolished democracy, espousing a radical, racially motivated revision of the world order, and soon began a massive rearmament campaign. France, seeking to secure its alliance with Italy, allowed Italy a free hand in Ethiopia, which Italy desired as a colonial possession. The situation was aggravated in early 1935 when the Territory of the Saar Basin was legally reunited with Germany, and Hitler repudiated the Treaty of Versailles, accelerated his rearmament programme, and introduced conscription.",
+            "question": "What happened to the Saar Basin in early 1935?",
+            "answer": "It was legally reunited with Germany."
+          }
+          
+          
+          
+        
+        
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+      
+      
+    ]
+      
+
+  
+  
