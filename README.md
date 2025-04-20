@@ -22,11 +22,14 @@ Built using:
 ---
 
 # Steps to Run
-Clone this project
-Download FineTuned T5 model ----> https://drive.google.com/file/d/1R7s4tkkQoixKiFn90KrVHXsTTyKiqCPT/view?usp=sharing (Github doesn't support >25MB). Download, Extract it and keep in the project folder
+Clone this project.
+
+Download FineTuned T5 model ----> https://drive.google.com/file/d/1R7s4tkkQoixKiFn90KrVHXsTTyKiqCPT/view?usp=sharing (Github doesn't support >25MB). Extract it and keep in the project folder
 
 To download all the dependencies
 `pip install -r requirements.txt`
 
  To run the project 
  `streamlit run rag_app.py`
+
+ The web app should launch on your browser. Ask Questions in the text box.
